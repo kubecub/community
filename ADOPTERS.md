@@ -1,11 +1,11 @@
-# Who's using OpenIMSDK？
+# Who's using kubecub？
 
 ## ❓ Why are adopters needed
 
-We are always interested in finding out who is using OpenIMSDK, what attracted you to using it, how we can listen to your needs and if you are interested, help promote your organization.
+We are always interested in finding out who is using kubecub, what attracted you to using it, how we can listen to your needs and if you are interested, help promote your organization.
 
-+ We have people reaching out to us asking, who uses OpenIMSDK in production?
-+ We’d like to listen to what you would like to see in OpenIMSDK and your scenarios?
++ We have people reaching out to us asking, who uses kubecub in production?
++ We’d like to listen to what you would like to see in kubecub and your scenarios?
 + We'd like to help promote your organization and work with you
 
 🎯 If you'd like to be added, feel free to comment on this issue or open a pull-request!
@@ -19,7 +19,7 @@ Submit a comment in this issue to include the following information
 + Link to your website
 + Your country
 + Your contact info to reach out to you: blog, email or wechat (at least one).
-+ What is your scenario for using OpenIMSDK?
++ What is your scenario for using kubecub?
 + Are you running you application in `Testing` or `Production`?
 
 **Copy the template below:**
@@ -36,7 +36,7 @@ Submit a comment in this issue to include the following information
 
 ---
 
-Below is a list of projects that have publicly adopted OpenIMSDK.
+Below is a list of projects that have publicly adopted kubecub.
 
 ## OpenIM
 <!--

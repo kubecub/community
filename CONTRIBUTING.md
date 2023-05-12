@@ -1,9 +1,6 @@
-# Contributing to the Community Repo
+#  Contributing to kubecub
 
-Welcome to the OpenIMSDK Community contributing guide. We are excited about the prospect of you joining our [community](https://github.com/OpenIMSDK/community)!
-
-
-So, you want to hack on OpenIMSDK? Yay!
+So, you want to hack on kubecub? Yay!
 
 First of all, thank you for considering contributing to our project! We appreciate your time and effort, and we value any contribution, whether it's reporting a bug, suggesting a new feature, or submitting a pull request.
 
@@ -11,17 +8,17 @@ This document provides guidelines and best practices to help you contribute effe
 
 ## 📇Topics
 
-- [Contributing to the Community Repo](#contributing-to-the-community-repo)
+- [Contributing to kubecub](#contributing-to-kubecub)
   - [📇Topics](#topics)
   - [What we expect of you](#what-we-expect-of-you)
   - [Code of ConductCode of Conduct](#code-of-conductcode-of-conduct)
-      - [Reporting security issues](#reporting-security-issues)
-      - [Reporting general issues](#reporting-general-issues)
       - [Code and doc contribution](#code-and-doc-contribution)
       - [Where should I start?](#where-should-i-start)
       - [Design documents](#design-documents)
   - [Getting Started](#getting-started)
   - [Style and Specification](#style-and-specification)
+      - [Reporting security issues](#reporting-security-issues)
+      - [Reporting general issues](#reporting-general-issues)
       - [Commit Rules](#commit-rules)
       - [PR Description](#pr-description)
       - [Docs Contribution](#docs-contribution)
@@ -31,52 +28,21 @@ This document provides guidelines and best practices to help you contribute effe
 
 ## What we expect of you
 
-We hope that anyone can join OpenIMSDK , even if you are a student, writer, translator
+We hope that anyone can join kubecub , even if you are a student, writer, translator
 
 Please meet the minimum version of the Go language published in [go.mod](./go.mod). If you want to manage the Go language version, we provide tools to install [gvm](https://github.com/moovweb/gvm) in our [Makefile](./Makefile)
 
-You'd better use Linux as the development environment, Linux with [Makefile](./Makefile) can help you quickly build and test OpenIMSDK project.
+You'd better use Linux OR WSL as the development environment, Linux with [Makefile](./Makefile) can help you quickly build and test kubecub project.
 
-If you are familiar with [Makefile](./Makefile) , you can easily see the clever design of the OpenIMSDK Makefile. Storing the necessary tools such as golangci in the `/tools` directory can avoid some tool version issues.
+If you are familiar with [Makefile](./Makefile) , you can easily see the clever design of the kubecub Makefile. Storing the necessary tools such as golangci in the `/tools` directory can avoid some tool version issues.
 
 The [Makefile](./Makefile) is for every developer, even if you don't know how to use the Makefile tool, don't worry, we provide two great commands to get you up to speed with the Makefile architecture, `make help` and `make help-all`, it can reduce problems of the developing environment.
 
 ## Code of ConductCode of Conduct
 
-We divide the problem into security and general problems:
-
-#### Reporting security issues
-
-Security issues are always treated seriously. As our usual principle, we discourage anyone to spread security issues. If you find a security issue of OpenIMSDK, please do not discuss it in public and even do not open a public issue.
-
-Instead we encourage you to send us a private email to [📧 Gmail](winxu81@gmail.com) to report this.
-
-#### Reporting general issues
-
-To be honest, we regard every user of OpenIMSDKas a very kind contributor. After experiencing OpenIMSDK, you may have some feedback for the project. Then feel free to open an issue via [NEW ISSUE](https://github.com/OpenIMSDK/community/issues/new/choose).
-
-Since we collaborate project OpenIMSDK in a distributed way, we appreciate **WELL-WRITTEN**, **DETAILED**, **EXPLICIT** issue reports. To make the communication more efficient, we wish everyone could search if your issue is an existing one in the searching list. If you find it existing, please add your details in comments under the existing issue instead of opening a brand new one.
-
-To make the issue details as standard as possible, we setup an [ISSUE TEMPLATE](https://github.com/OpenIMSDK/community/tree/main/.github/ISSUE_TEMPLATE) for issue reporters. You can find three kinds of issue templates there: question, bug report and feature request. Please **BE SURE** to follow the instructions to fill fields in template.
-
-**There are a lot of cases when you could open an issue:**
-
-+ bug report
-+ feature request
-+ OpenIMSDK performance issues 
-+ feature proposal
-+ feature design
-+ help wanted
-+ doc incomplete
-+ test improvement
-+ any questions on OpenIMSDK project 
-+ and so on 
-
-Also, we must be reminded when submitting a new question about OpenIMSDK, please remember to remove the sensitive data from your post. Sensitive data could be password, secret key, network locations, private business data and so on.
-
 #### Code and doc contribution
 
-Every action to make project OpenIMSDK better is encouraged. On GitHub, every improvement for OpenIMSDK could be via a [PR](https://github.com/OpenIMSDK/pulls) (short for pull request).
+Every action to make project kubecub better is encouraged. On GitHub, every improvement for kubecub could be via a [PR](https://github.com/kubecub/pulls) (short for pull request).
 
 + If you find a typo, try to fix it!
 + If you find a bug, try to fix it!
@@ -91,54 +57,54 @@ Every action to make project OpenIMSDK better is encouraged. On GitHub, every im
 
 #### Where should I start?
 
-+ If you are new to the project, don't know how to contribute OpenIMSDK, please check out the [good first issue](https://github.com/OpenIMSDK/community/issues?q=is%3Aopen+label%3A"good+first+issue"+sort%3Aupdated-desc) label.
-+ You should be good at filtering the OpenIMSDK issue tags and finding the ones you like, such as [RFC](https://github.com/OpenIMSDK/community/issues?q=is%3Aissue+is%3Aopen+RFC+label%3ARFC) for big initiatives, features for [feature](https://github.com/OpenIMSDK/community/issues?q=is%3Aissue+label%3Afeature) proposals, and [bug](https://github.com/{github/issues?q=is%3Aissue+label%3Abug+) fixes.
-+ If you are looking for something to work on, check out our [open issues](https://github.com/OpenIMSDK/community/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
-+ If you have an idea for a new feature, please [open an issue](https://github.com/OpenIMSDK/community/issues/new/choose), and we can discuss it.
++ If you are new to the project, don't know how to contribute kubecub, please check out the [good first issue](https://github.com/kubecub/kubecub/issues?q=is%3Aopen+label%3A"good+first+issue"+sort%3Aupdated-desc) label.
++ You should be good at filtering the kubecub issue tags and finding the ones you like, such as [RFC](https://github.com/kubecub/kubecub/issues?q=is%3Aissue+is%3Aopen+RFC+label%3ARFC) for big initiatives, features for [feature](https://github.com/kubecub/kubecub/issues?q=is%3Aissue+label%3Afeature) proposals, and [bug](https://github.com/kubecub/kubecub/issues?q=is%3Aissue+label%3Abug+) fixes.
++ If you are looking for something to work on, check out our [open issues](https://github.com/kubecub/kubecub/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
++ If you have an idea for a new feature, please [open an issue](https://github.com/kubecub/kubecub/issues/new/choose), and we can discuss it.
 
 #### Design documents
 
-For any substantial design, there should be a well-crafted design document. This document is not just a simple record, but also a detailed description and manifestation, which can help team members better understand the design thinking and grasp the design direction. In the process of writing the design document, we can choose to use tools such as `Google Docs` or `Notion`, and even mark RFC in [issues](https://github.com/OpenIMSDK/community/issues?q=is%3Aissue+is%3Aopen+RFC+label%3ARFC) or [discussions](https://github.com/OpenIMSDK/community/discussions) for better collaboration. Of course, after completing the design document, we should also add it to our [Shared Drive](https://drive.google.com/drive/) and notify the appropriate working group to let everyone know of its existence. Only by doing so can we maximize the effectiveness of the design document and provide strong support for the smooth progress of the project.
+For any substantial design, there should be a well-crafted design document. This document is not just a simple record, but also a detailed description and manifestation, which can help team members better understand the design thinking and grasp the design direction. In the process of writing the design document, we can choose to use tools such as `Google Docs` or `Notion`, and even mark RFC in [issues](https://github.com/kubecub/kubecub/issues?q=is%3Aissue+is%3Aopen+RFC+label%3ARFC) or [discussions](https://github.com/kubecub/kubecub/discussions) for better collaboration. Of course, after completing the design document, we should also add it to our [Shared Drive](https://drive.google.com/drive/) and notify the appropriate working group to let everyone know of its existence. Only by doing so can we maximize the effectiveness of the design document and provide strong support for the smooth progress of the project.
 
 Anybody can access the shared Drive for reading. To get access to comment. Once you've done that, head to the [shared Drive](https://drive.google.com/) and behold all the docs.
 
-In addition to that, we'd love to invite you to [Join Our Slack](https://join.slack.com/t/openimsdk/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg) where you can play with your imagination, tell us what you're working on, and get a quick response.
+In addition to that, we'd love to invite you to [join our Slack](https://join.slack.com/t/c-ub/shared_invite/zt-1se0k2bae-lkYzz0_T~BYh3rjkvlcUqQ) where you can play with your imagination, tell us what you're working on, and get a quick response.
 
 When documenting a new design, we recommend a 2-step approach:
 
-1. Use the short-form [**RFC** template](https://docs.google.com/document/d/e/2PACX-1vTqvLkjWjchvA-TBGMNVsbjKx_aqZedOQ-No5zm_2kmiMuluK3zy1VlVAY2y3hgbWvw6zF1ZLLib8l1/pub?embedded=true) to outline your ideas and get early feedback.
+1. Use the short-form RFC template to outline your ideas and get early feedback.
 2. Once you have received sufficient feedback and consensus, you may use the longer-form design doc template to specify and discuss your design in more details.
 
-In order to contribute a feature to OpenIMSDK you'll need to go through the following steps:
+In order to contribute a feature to kubecub you'll need to go through the following steps:
 
-+ Discuss your idea with the appropriate [working groups](https://join.slack.com/t/openimsdk/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg) on the working group's Slack channel.
++ Discuss your idea with the appropriate [working groups](https://join.slack.com/t/c-ub/shared_invite/zt-1se0k2bae-lkYzz0_T~BYh3rjkvlcUqQ) on the working group's Slack channel.
 + Once there is general agreement that the feature is useful, create a GitHub issue to track the discussion. The issue should include information about the requirements and use cases that it is trying to address.
 + Include a discussion of the proposed design and technical details of the implementation in the issue.
 
-But keep in mind that there is no guarantee of it being accepted and so it is usually best to get agreement on the **idea/design** before time is spent coding it. However, sometimes seeing the exact code change can help focus discussions, so the choice is up to you.
+But keep in mind that there is no guarantee of it being accepted and so it is usually best to get agreement on the idea/design before time is spent coding it. However, sometimes seeing the exact code change can help focus discussions, so the choice is up to you.
 
 ## Getting Started
 
-To propose PR for the OpenIMSDK item, we assume you have registered a GitHub ID. Then you could finish the preparation in the following steps:
+To propose PR for the kubecub item, we assume you have registered a GitHub ID. Then you could finish the preparation in the following steps:
 
-1. Fork the repository(OpenIMSDK)
+1. Fork the repository(kubecub)
 
-2. **CLONE** your own repository to master locally. Use `git clone https://github.com/<your-username>/OpenIMSDK.git` to clone repository to your local machine. Then you can create new branches to finish the change you wish to make.
+2. **CLONE** your own repository to master locally. Use `git clone https://github.com/<your-username>/kubecub.git` to clone repository to your local machine. Then you can create new branches to finish the change you wish to make.
 
-3. **Set Remote** upstream to be `https://github.com/OpenIMSDK/community.git` using the following two commands:
+3. **Set Remote** upstream to be `https://github.com/kubecub/kubecub.git` using the following two commands:
 
    ```bash
-   ❯ git remote add upstream https://github.com/OpenIMSDK/community.git
+   ❯ git remote add upstream https://github.com/kubecub/kubecub.git
    ❯ git remote set-url --push upstream no-pushing
    ```
 
    With this remote setting, you can check your git remote configuration like this:
 
-   ```go
+   ```bash
    ❯ git remote -v
-   origin     https://github.com/<your-username>/OpenIMSDK.git (fetch)
-   origin     https://github.com/<your-username>/OpenIMSDK.git (push)
-   upstream   https://github.com/OpenIMSDK/community.git (fetch)
+   origin     https://github.com/<your-username>/kubecub.git (fetch)
+   origin     https://github.com/<your-username>/kubecub.git (push)
+   upstream   https://github.com/kubecub/kubecub.git (fetch)
    upstream   no-pushing (push)
    ```
 
@@ -147,9 +113,9 @@ To propose PR for the OpenIMSDK item, we assume you have registered a GitHub ID.
 4. Create a new branch for your changes (use a descriptive name, such as `fix-bug-123` or `add-new-feature`).
 
    ```bash
-   ❯ cd OpenIMSDK
+   ❯ cd kubecub
    ❯ git fetch upstream
-   ❯ git checkout main
+   ❯ git checkout upstream/main
    ```
 
    Create a new branch: 
@@ -169,12 +135,13 @@ To propose PR for the OpenIMSDK item, we assume you have registered a GitHub ID.
    ❯ git commit -a -s -m "message for your changes" # -s adds a Signed-off-by trailer
    ```
 
-6. **Push your branch**  to your forked repository, it is recommended to have only one commit for a **PR**.
+6. **Push your branch**  to your forked repository, it is recommended to have only one commit for a PR.
 
    ```bash
    # sync up with upstream
    ❯ git fetch upstream main
    ❯ git rebase upstream/main
+   ❯ 
    ❯ git rebase -i	<commit-id> # rebase with interactive mode to squash your commits into a single one
    ❯ git push # push to the remote repository, if it's a first time push, run git push --set-upstream origin <new-branch>
    ```
@@ -198,21 +165,52 @@ To propose PR for the OpenIMSDK item, we assume you have registered a GitHub ID.
    # then create pull request, and merge
    ```
 
-7. **File a pull request** to `OpenIMSDK/community:main`
+7. **Open a pull request** to `kubecub/kubecub:main`
 
    It is recommended to review your changes before filing a pull request. Check if your code doesn't conflict with the main branch and no redundant code is included.
 
 ## Style and Specification
 
+We divide the problem into security and general problems:
+
+#### Reporting security issues
+
+Security issues are always treated seriously. As our usual principle, we discourage anyone to spread security issues. If you find a security issue of kubecub, please do not discuss it in public and even do not open a public issue.
+
+Instead we encourage you to send us a private email to [3293172751nss@gmail.com](mailto:3293172751nss@gmail.com) to report this.
+
+#### Reporting general issues
+
+To be honest, we regard every user of kubecubas a very kind contributor. After experiencing kubecub, you may have some feedback for the project. Then feel free to open an issue via [NEW ISSUE](https://github.com/kubecub/kubecub/issues/new/choose).
+
+Since we collaborate project kubecub in a distributed way, we appreciate **WELL-WRITTEN**, **DETAILED**, **EXPLICIT** issue reports. To make the communication more efficient, we wish everyone could search if your issue is an existing one in the searching list. If you find it existing, please add your details in comments under the existing issue instead of opening a brand new one.
+
+To make the issue details as standard as possible, we setup an [ISSUE TEMPLATE](https://github.com/kubecub/kubecub/tree/main/.github/ISSUE_TEMPLATE) for issue reporters. You can find three kinds of issue templates there: question, bug report and feature request. Please **BE SURE** to follow the instructions to fill fields in template.
+
+**There are a lot of cases when you could open an issue:**
+
++ bug report
++ feature request
++ kubecub performance issues 
++ feature proposal
++ feature design
++ help wanted
++ doc incomplete
++ test improvement
++ any questions on kubecub project 
++ and so on 
+
+Also, we must be reminded when submitting a new question about kubecub, please remember to remove the sensitive data from your post. Sensitive data could be password, secret key, network locations, private business data and so on.
+
 #### Commit Rules
 
-Actually in OpenIMSDK, we take two rules serious when committing:
+Actually in kubecub, we take two rules serious when committing:
 
 **🥇 Commit Message:**
 
 Commit message could help reviewers better understand what the purpose of submitted PR is. It could help accelerate the code review procedure as well. We encourage contributors to use **EXPLICIT** commit message rather than ambiguous message. In general, we advocate the following commit message type:
 
-We use [Semantic Commits](https://www.conventionalcommits.org/en/v1.0.0/) to make it easier to understand what a commit does and to build pretty changelogs. Please use the following prefixes for your commits:
+We use [Semantic Commits](https://www.conventionalcommits.org/en/v1.0.0/) to make it easier to understand what a commit does and to build pretty changekubecubs. Please use the following prefixes for your commits:
 
 + `docs: xxxx`. For example, "docs: add docs about storage installation".
 + `feature: xxxx`.For example, "feature: make result show in sorted order".
@@ -249,48 +247,38 @@ An example for this could be:
 
 #### PR Description
 
-PR is the only way to make change to OpenIMSDK project files. To help reviewers better get your purpose, **PR** description could not be too detailed. We encourage contributors to follow the [PR template](https://github.com/OpenIMSDK/community/tree/main/.github/PULL_REQUEST_TEMPLATE.md) to finish the pull request.
+PR is the only way to make change to kubecub project files. To help reviewers better get your purpose, PR description could not be too detailed. We encourage contributors to follow the [PR template](https://github.com/kubecub/kubecub/tree/main/.github/PULL_REQUEST_TEMPLATE.md) to finish the pull request.
 
-You can find some very formal PR in [RFC](https://github.com/OpenIMSDK/community/issues?q=is%3Aissue+is%3Aopen+RFC+label%3ARFC) issues and learn about them.
+You can find some very formal PR in [RFC](https://github.com/kubecub/kubecub/issues?q=is%3Aissue+is%3Aopen+RFC+label%3ARFC) issues and learn about them.
 
 **📖 Opening PRs:**
 
-+ As long as you are working on your **PR**, please mark it as a draft
-+ Please make sure that your **PR** is up-to-date with the latest changes in `main`
-+ Mention the issue that your **PR** is addressing.  For example, `Fixes: #{ID_1}, #{ID_2}`
-+ Make sure that your **PR** passes all checks
++ As long as you are working on your PR, please mark it as a draft
++ Please make sure that your PR is up-to-date with the latest changes in `main`
++ Mention the issue that your PR is addressing (Fix: #{ID_1}, #{ID_2})
++ Make sure that your PR passes all checks
 
 **🈴 Reviewing PRs:**
 
-+ Be respectful and constructive. 
-+ Assign yourself to the **PR**.
-+ Check if all checks are passing.
-+ Suggest changes instead of simply commenting on found issues.
-+ If you are unsure about something, ask the author.
-+ If you are not sure if the changes work, try them out.
-+ Reach out to other reviewers if you are unsure about something.
-+ If you are happy with the changes, approve the **PR**.
-+ Merge the **PR** once it has all approvals and the checks are passing.
++ Be respectful and constructive 
++ Assign yourself to the PR 
++ Check if all checks are passing
++ Suggest changes instead of simply commenting on found issues
++ If you are unsure about something, ask the author
++ If you are not sure if the changes work, try them out
++ Reach out to other reviewers if you are unsure about something
++ If you are happy with the changes, approve the PR
++ Merge the PR once it has all approvals and the checks are passing
 
 **⚠️ DCO check:**
 
-We have a [DCO check](https://github.com/apps/dco) which runs on every **PR** to verify that the commit has been signed off.
-
-Once [installed](https://github.com/apps/dco#usage), this integration will set the [status](https://developer.github.com/v3/repos/statuses/) to `failed` if commits in a Pull Request do not contain a valid `Signed-off-by` line.
-
-To sign off the last commit you made, you can use:
+We have a DCO check that runs on every pull request to ensure code quality and maintainability. This check verifies that the commit has been signed off, indicating that you have read and agreed to the provisions of the Developer Certificate of Origin. If you have not yet signed off on the commit, you can use the following command to sign off on the last commit you made:
 
 ```bash
-❯ git commit --amend --signoffgit commit --amend --signoff
+❯ git commit --amend --signoff
 ```
 
-Contributors *sign-off*  that they adhere to these requirements by adding a `Signed-off-by` line to commit messages.
-
-Git even has a `-s` command line option to append this automatically to your commit message:
-
-```bash
-❯ git commit -s -m "docs: this is my commit message"
-```
+Please note that signing off on a commit is a commitment that you have read and agreed to the provisions of the Developer Certificate of Origin. If you have not yet read this document, we strongly recommend that you take some time to read it carefully. If you have any questions about the content of this document, or if you need further assistance, please contact an administrator or relevant personnel.
 
 You can also automate signing off your commits by adding the following to your `.zshrc` or `.bashrc`:
 
@@ -305,14 +293,15 @@ git() {
 }
 ```
 
+
 #### Docs Contribution
 
-The documentation for OpenIMSDK includes:
+The documentation for kubecub includes:
 
-+ [README.md](https://github.com/OpenIMSDK/community/blob/main/README.md): This file includes the basic information and instructions for getting started with OpenIMSDK.
-+ [CONTRIBUTING.md](https://github.com/OpenIMSDK/community/blob/main/CONTRIBUTING.md): This file contains guidelines for contributing to OpenIMSDK's codebase, such as how to submit issues, pull requests, and code reviews.
-+ [DEVELOPGUIDE.md](https://github.com/OpenIMSDK/community/blob/main/DEVELOPGUIDE.md): This file provides a more in-depth guide to developing OpenIMSDK, including information on the project's architecture, coding conventions, and testing practices.
-+ [Official Documentation](https://doc.rentsoft.cn/): This is the official documentation for OpenIMSDK, which includes comprehensive information on all of its features, configuration options, and troubleshooting tips.
++ [README.md](https://github.com/kubecub/kubecub/blob/main/README.md): This file includes the basic information and instructions for getting started with kubecub.
++ [CONTRIBUTING.md](https://github.com/kubecub/kubecub/blob/main/CONTRIBUTING.md): This file contains guidelines for contributing to kubecub's codebase, such as how to submit issues, pull requests, and code reviews.
++ [DEVELOPGUIDE.md](https://github.com/kubecub/kubecub/blob/main/DEVELOPGUIDE.md): This file provides a more in-depth guide to developing kubecub, including information on the project's architecture, coding conventions, and testing practices.
++ [Official Documentation](nsddd.top): This is the official documentation for kubecub, which includes comprehensive information on all of its features, configuration options, and troubleshooting tips.
 
 Please obey the following rules to better format the docs, which would greatly improve the reading experience.
 
@@ -325,35 +314,35 @@ Please obey the following rules to better format the docs, which would greatly i
 
 ## Engage to help anything
 
-We choose GitHub as the primary place for OpenIMSDK to collaborate. So the latest updates of OpenIMSDK are always here. Although contributions via **PR** is an explicit way to help, we still call for any other ways.
+We choose GitHub as the primary place for kubecub to collaborate. So the latest updates of kubecub are always here. Although contributions via PR is an explicit way to help, we still call for any other ways.
 
-+ reply to other's [issues](https://github.com/OpenIMSDK/community/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) if you could;
++ reply to other's [issues](https://github.com/kubecub/kubecub/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) if you could;
 + help solve other user's problems;
-+ help review other's [PR](https://github.com/OpenIMSDK/community/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc) design; 
-+ discuss about OpenIMSDK to make things clearer;
-+ advocate [OpenIMSDK](google.com/search?q=OpenIMSDK) technology beyond GitHub;
-+ write blogs on OpenIMSDK and so on.
++ help review other's [PR](https://github.com/kubecub/kubecub/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc) design; 
++ discuss about kubecub to make things clearer;
++ advocate [kubecub](google.com/search?q=kubecub) technokubecuby beyond GitHub;
++ write bkubecubs on kubecub and so on.
 
 In a word, **ANY HELP IS CONTRIBUTION.**
 
 ## Release version
 
-Releases of OpenIMSDK are done using [Release Please](https://github.com/googleapis/release-please) and [GoReleaser](https://goreleaser.com/). The workflow looks like this:
+Releases of kubecub are done using [Release Please](https://github.com/googleapis/release-please) and [GoReleaser](https://goreleaser.com/). The workflow looks like this:
 
-🎯 **A PR is merged to the `main` branch:**
+🎯 A PR is merged to the `main` branch:
 
 + Release please is triggered, creates or updates a new release PR
 + This is done with every merge to main, the current release PR is updated every time
 
-🎯 **Merging the 'release please' PR to `main`:**
+🎯 Merging the 'release please' PR to `main`:
 
-+ Release please is triggered, creates a new release and updates the changelog based on the commit messages
++ Release please is triggered, creates a new release and updates the changekubecub based on the commit messages
 + GoReleaser is triggered, builds the binaries and attaches them to the release
 + Containers are created and pushed to the container registry
 
 With the next relevant merge, a new release PR will be created and the process starts again
 
-👀 **Manually setting the version:**
+**👀 Manually setting the version:**
 
 If you want to manually set the version, you can create a PR with an empty commit message that contains the version number in the commit message. For example:
 
@@ -365,15 +354,16 @@ Such a commit can get produced as follows:
 
 ## Contact Us
 
-We value close connections with our users, developers, and contributors here at OpenIMSDK. With a large community and maintainer team, we're always here to help and support you. Whether you're looking to join our community or have any questions or suggestions, we welcome you to get in touch with us.
+We value close connections with our users, developers, and contributors here at kubecub. With a large community and maintainer team, we're always here to help and support you. Whether you're looking to join our community or have any questions or suggestions, we welcome you to get in touch with us.
 
-Our most recommended way to get in touch is through [Slack](https://join.slack.com/t/openimsdk/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg). Even if you're in China, Slack is usually not blocked by firewalls, making it an easy way to connect with us. Our Slack community is the ideal place to discuss and share ideas and suggestions with other users and developers of OpenIMSDK. You can ask technical questions, seek help, or share your experiences with other users of OpenIMSDK.
+Our most recommended way to get in touch is through [Slack](https://join.slack.com/t/c-ub/shared_invite/zt-1se0k2bae-lkYzz0_T~BYh3rjkvlcUqQ). Even if you're in China, Slack is usually not blocked by firewalls, making it an easy way to connect with us. Our Slack community is the ideal place to discuss and share ideas and suggestions with other users and developers of kubecub. You can ask technical questions, seek help, or share your experiences with other users of kubecub.
 
 In addition to Slack, we also offer the following ways to get in touch:
 
-+ <a href="https://join.slack.com/t/openimsdk/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg" target="_blank"><img src="https://img.shields.io/badge/slack-%40OpenIMSDKCore-informational?logo=slack&style=flat-square"></a>:  We also have Slack channels for you to communicate and discuss. To join, visit https://slack.com/ and join our [👀 Open-IM-Server slack](https://join.slack.com/t/openimsdk/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg) team channel.
-+ <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=4closetool3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%40OOpenIMSDKCore?style=social&logo=gmail"></a>: Get in touch with us on [Gmail](winxu81@gmail.com). If you have any questions or issues that need resolving, or any suggestions and feedback for our open source projects, please feel free to contact us via email.
-+ <a href="https://doc.rentsoft.cn/" target="_blank"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%40OpenIMSDKCore-blue?style=social&logo=Octopus%20Deploy"></a>: Read our [blog](https://doc.rentsoft.cn/). Our blog is a great place to stay up-to-date with Open-IM-Server projects and trends. On the blog, we share our latest developments, tech trends, and other interesting information.
-+ <a href="https://github.com/OpenIMSDK/OpenIM-Docs/blob/main/docs/images/WechatIMG20.jpeg" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-OpenIMSDKCore-brightgreen?logo=wechat&style=flat-square"></a>: Add [Wechat](https://github.com/OpenIMSDK/OpenIM-Docs/blob/main/docs/images/WechatIMG20.jpeg) and indicate that you are a user or developer of Open-IM-Server. We will process your request as soon as possible.
++ <a href="https://join.slack.com/t/c-ub/shared_invite/zt-1se0k2bae-lkYzz0_T~BYh3rjkvlcUqQ" target="_blank"><img src="https://img.shields.io/badge/slack-%40kubecub-informational?kubecubo=slack&style=flat-square"></a>:  We also have Slack channels for you to communicate and discuss. To join, visit https://slack.com/ and join our [👀 kubecub kubecub slack](https://join.slack.com/t/c-ub/shared_invite/zt-1se0k2bae-lkYzz0_T~BYh3rjkvlcUqQ) team channel.
++ <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=3293172751nss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%40kubecub-blue?style=social&kubecubo=gmail"></a>: Get in touch with us on [Gmail]([3293172751nss@gmail.com](mailto:3293172751nss@gmail.com)). If you have any questions or issues that need resolving, or any suggestions and feedback for our open source projects, please feel free to contact us via email.
++ <a href="nsddd.top" target="_blank"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%40kubecub-blue?style=social&kubecubo=Octopus%20Deploy"></a>: Read our [bkubecub](nsddd.top). Our bkubecub is a great place to stay up-to-date with kubecub projects and trends. On the bkubecub, we share our latest developments, tech trends, and other interesting information.
++ <a href="https://twitter.com/xxw3293172751" target="_blank"><img src="https://img.shields.io/badge/twitter-%40kubecub-informational?kubecubo=twitter&style=flat-square"></a> : Add [Twitter]({twitter}) . If you prefer social media, our Twitter account is a great way to stay up-to-date with kubecub project news and trends. On Twitter, we share our latest tech and trends, as well as relevant news and events.
++ <a href="http://sm.nsddd.top/sm0d220ad72063197b9875379403f6c88.jpg" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-smile-brightgreen?kubecubo=wechat&style=flat-square"></a>: Add [Wechat](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-smile-brightgreen?kubecubo=wechat&style=flat-square) and indicate that you are a user or developer of kubecub. We will process your request as soon as possible.
 
 Whether you're looking to join our community or have any questions or suggestions, we welcome you to get in touch with us.
