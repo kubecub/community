@@ -1,44 +1,60 @@
-# kubecub Community
+# 什么是 kubecub ？
+kubecub 是一种基于 Kubernetes 的开源生态项目，提供了链的能力，将所有的开源生态整合起来，形成了一种可参考和可复现的体系与规范。它不仅包括基于 Kubernetes 的分布式应用，还包括开源工具的开发、整理，以及基于 kubecub 的所有开源项目的管理和规范设计。
 
-Welcome to the kubecub Community repository! This repository is for anyone who is interested in contributing to the development and growth of kubecub.
+## 为什么创建 kubecub
 
-kubecub is an open-source instant messaging software development toolkit. It can help developers quickly build application programs based on instant messaging functions. The toolkit provides rich API interfaces, supporting the sending and receiving of various message types, including text messages, voice messages, image messages, etc. In addition, it also provides group chat, chat room, friend management, etc., which greatly facilitates the development work of developers.
+和其他的开源社区不一样，kubecub 并非是 kubecub 的某一个产品，或者就叫 kubecub 的仓库，它的功能远不止如此，听我慢慢道来……
 
-For developers, kubecub is an easy-to-use, efficient, and stable toolkit, which can greatly reduce development cycle and cost, improve the interaction experience and user satisfaction of application programs.
+**为什么叫做 kubecub？**
 
-This repository is dedicated to creating and managing the kubecub community. We welcome contributions from anyone who is interested in helping improve kubecub. Whether you are a developer, designer, or just have some great ideas, we would love to hear from you!
+> 🔥 kubecub provides the capability of k8s chains.
 
-## Contributing
+我认为 kubecub 为 Kubernetes 提供了链的能力，什么是链的能力？
 
-There are many ways you can contribute to kubecub:
+在 Kubernetes 发展迅速的同时，在 cncf 基金会的引导下，云原生整个领域蓬勃发展，整个云原生中的工具数不胜数，带动了整个开源届的发展和繁荣，kubecub 应运而生~
 
-- Submit bug reports and feature requests
-- Help us improve our documentation
-- Write code or submit pull requests
-- Spread the word about kubecub and encourage others to get involved
+kubecub 就如同 区块链这个超级账本将所有的区块打包记录起来一样，kubecub 将所有的 开源生态都 **链起来** 了，形成了一种可参考和可复现的体系与规范。
 
-If you're new to the community, or participating in an open source community for the first time, we highly recommend you take a look at our [community guide](./CONTRIBUTING.md)
+包括但不仅仅是：
 
-We value all types of contributions to our community, and we strive to make contributing as easy and accessible as possible.
+- 基于 Kubernetes 的分布式应用，Kubernetes 现有的解决方案整合。
+- 开源工具的开发，整理。
+- 基于 kubecub 的所有开源项目的管理和规范设计。
 
-## Getting Started
+## 当下开源社区存在的问题
 
-If you are interested in contributing to kubecub, the first step is to join our community. You can do this by joining our [Slack channel](https://join.slack.com/t/kubecub/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg) or [GitHub organization](https://github.com/kubecub).
+我们知道任何一个顶级的开源项目都离不开一个顶级的运营模式，包括 Kubernetes 来说也是这样，对于 Kubernetes 来说，管理运营和开发是互不干涉的，这也是为什么 Kubernetes 社区至今仍然是整个开源界的霸主。
 
-Once you have joined the community, take some time to familiarize yourself with the project. You can do this by reading the [documentation](https://doc.rentsoft.cn/) and browsing the [source code](https://github.com/kubecub/kubecub).
+但是并非是 所有的 项目都有去 运营 和 自动化管理的成本和精力，所以导致很多社区缺乏甚至是很少有成熟的自动化 和 CICD 以及体系的社区规范。
 
-Our community is open and inclusive, and we welcome all members who share our passion for building great instant messaging software. Whether you are an experienced developer or just starting out, there are many opportunities to get involved and make a difference.
+Kubecub 杂糅了 各种 DevOps 的手段，使用  robot 和 actions 融合的手段去管理自动化和社区部分运营工作。
 
-## Code of Conduct
 
-kubecub is dedicated to providing a welcoming and supportive community for all members. To ensure that everyone feels safe and respected, we ask that all members follow our [Code of Conduct](https://doc.rentsoft.cn/).
+## 哪些人可以参与 kubecub ?
 
-Our Code of Conduct outlines the standards of behavior we expect from all members of our community, including developers, contributors, and users. We believe that by treating each other with respect and kindness, we can create a community that is inclusive, supportive, and productive.
+kubecub 没有门槛！
 
-## License
+kubecub 不需要钱 ！
 
-I apologize for the mistake. You are correct that the license used by kubecub is the Apache-2.0 license, not the MIT License. Thank you for bringing this to our attention.
+kubecub 也没有任何约束 ！
 
-This means that you are free to use, modify, and distribute the toolkit for any purpose, as long as you include the original copyright notice and license terms.
+你可以自己提一个创意并且实现它，你可以根据现有的 projects 中的提案去实现它，你也可以参与任何一个仓库，去提出或者解决 feature、bug….
 
-Thank you for your interest in kubecub, and we look forward to working with you to build a great instant messaging software development community!
+甚至，你可以什么都不用干 ~ 随便进入一个 项目的 pull requests 中，看到哪段代码不舒服吐槽两句~
+
+## 从哪里开始
+
+我们有一个 https://github.com/kubecub/community 仓库，定义了社区的规范，以及各种模板。
+
+![yangzi](http://sm.nsddd.top/sm202306012140301.png)
+
+**[0000-template.md](http://0000-template.md/)**  是模板，我们可以用这个模板，然后可以写一个 markdown 格式的 proposal 到 PRC 目录中，以 PR 的形式~ 也算是走了一遍完整的PR。并且做好了开启一个项目前的策划工作。
+
+阅读我们的 [贡献者指南](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md)，在里面，你能学习到为一个开源项目贡献代码的最佳规范和实践。
+
+
+## 后期方向
+
+一个人的力量是有限的，后面的开源氛围肯定是越来越繁荣，越来越多希望加入开源的伙伴或者团队都渴望有一套现有的解决方案。
+
+我们会坚持 kubecub 的运营，并且带动开源爱好者成长，交流。
