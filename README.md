@@ -1,60 +1,67 @@
-# 什么是 kubecub ？
-kubecub 是一种基于 Kubernetes 的开源生态项目，提供了链的能力，将所有的开源生态整合起来，形成了一种可参考和可复现的体系与规范。它不仅包括基于 Kubernetes 的分布式应用，还包括开源工具的开发、整理，以及基于 kubecub 的所有开源项目的管理和规范设计。
+# 什么是 kubecub？
 
-## 为什么创建 kubecub
+Kubecub is an open-source ecosystem project based on Kubernetes that provides chain capabilities to integrate all open-source ecosystems into a referenceable and reproducible system and specification. It includes not only distributed applications based on Kubernetes, but also the development and organization of open-source tools, as well as the management and specification design of all open-source projects based on Kubecub.
 
-和其他的开源社区不一样，kubecub 并非是 kubecub 的某一个产品，或者就叫 kubecub 的仓库，它的功能远不止如此，听我慢慢道来……
+Kubecub is an open-source community in the cloud-native field whose main goal is to help establish a reproducible open-source specification and provide a complete operational system to enable the community to have healthy development. Today, there are many projects in this field, but often there is a lack of uniform standards in terms of specifications and operations. Kubecub's vision is to unify standards, improve the quality of open-source projects, and create a globally recognized open-source community in the cloud-native field.
 
-**为什么叫做 kubecub？**
+Kubecub is mainly developed using the Golang programming language, but it is not limited to this in the future. The most impressive thing is that Kubecub's community operations use an advanced and efficient operational system, which made me deeply aware of the problems existing in the current open-source community. In this operational mode, Kubecub administrators allocate demands, provide services to the open-source community, get feedback on time, and provide symbolic rewards. Through these means, Kubecub participants can get a good development experience and are more likely to persist, thereby making the open-source community healthier and better developed.
+
+Kubecub is currently designing some tools, such as label synchronizers, robots, automation, AI, customer service, etc. The main purpose of these tools is to assist in the management of open-source communities and improve operational efficiency. They also hope that developers who engage in secondary development can use and improve their tools and comply with their prescribed open-source specifications. In addition, Kubecub is also developing a distributed environment built on Kubernetes at the bottom to operate and maintain the entire community. Therefore, Kubecub is a very promising open-source community management tool.
+
+In summary, Kubecub's vision is to create a globally influential open-source community in the cloud-native field, not only to improve the quality and specifications of open-source projects but also to make open-source projects healthier and more mature. At the same time, Kubecub provides an efficient operational system to attract and retain participants, thereby promoting the development of the cloud-native community. For developers who are passionate about the cloud-native field, Kubecub will be an invaluable opportunity to participate in the standardized and operational open-source community and contribute to the progress of the cloud-native field.
+
+## Why create Kubecub?
+
+Unlike other open-source communities, Kubecub is not just a product or repository of Kubecub. Its functions are far more than that. Let me explain...
+
+**Why is it called Kubecub?**
 
 > 🔥 kubecub provides the capability of k8s chains.
 
-我认为 kubecub 为 Kubernetes 提供了链的能力，什么是链的能力？
+I think Kubecub provides Kubernetes with the ability to chain. What is the ability to chain?
 
-在 Kubernetes 发展迅速的同时，在 cncf 基金会的引导下，云原生整个领域蓬勃发展，整个云原生中的工具数不胜数，带动了整个开源届的发展和繁荣，kubecub 应运而生~
+While Kubernetes is developing rapidly, under the guidance of the CNCF Foundation, the entire cloud-native field is booming, and the tools in the entire cloud-native field are innumerable, driving the development and prosperity of the entire open-source community. Kubecub came into being.
 
-kubecub 就如同 区块链这个超级账本将所有的区块打包记录起来一样，kubecub 将所有的 开源生态都 **链起来** 了，形成了一种可参考和可复现的体系与规范。
+Kubecub is like a blockchain that records all blocks in a super ledger. Kubecub chains all open-source ecosystems together to form a referenceable and reproducible system and specification.
 
-包括但不仅仅是：
+Including, but not limited to:
 
-- 基于 Kubernetes 的分布式应用，Kubernetes 现有的解决方案整合。
-- 开源工具的开发，整理。
-- 基于 kubecub 的所有开源项目的管理和规范设计。
++ Distributed applications based on Kubernetes, integrating existing Kubernetes solutions.
++ Development and organization of open-source tools.
++ Management and specification design of all open-source projects based on Kubecub.
 
-## 当下开源社区存在的问题
+## Problems in the current open-source community
 
-我们知道任何一个顶级的开源项目都离不开一个顶级的运营模式，包括 Kubernetes 来说也是这样，对于 Kubernetes 来说，管理运营和开发是互不干涉的，这也是为什么 Kubernetes 社区至今仍然是整个开源界的霸主。
+We know that any top-level open-source project cannot do without a top-level operational mode, including Kubernetes. For Kubernetes, management, operations, and development are not mutually exclusive, which is why the Kubernetes community is still the leader in the entire open-source community.
 
-但是并非是 所有的 项目都有去 运营 和 自动化管理的成本和精力，所以导致很多社区缺乏甚至是很少有成熟的自动化 和 CICD 以及体系的社区规范。
+However, not all projects have the cost and energy to operate and automate management, resulting in a lack of or very few mature automated and CICD and community specifications in many communities.
 
-Kubecub 杂糅了 各种 DevOps 的手段，使用  robot 和 actions 融合的手段去管理自动化和社区部分运营工作。
+Kubecub mixes various DevOps means, using robots and actions to integrate means to manage automation and part of the community's operational work.
 
+## Who can participate in Kubecub?
 
-## 哪些人可以参与 kubecub ?
+There is no threshold for Kubecub!
 
-kubecub 没有门槛！
+Kubecub does not require money!
 
-kubecub 不需要钱 ！
+Kubecub does not have any constraints!
 
-kubecub 也没有任何约束 ！
+You can propose and implement an idea yourself, you can implement it based on existing proposals in projects, you can also participate in any repository to propose or solve features, bugs, etc.
 
-你可以自己提一个创意并且实现它，你可以根据现有的 projects 中的提案去实现它，你也可以参与任何一个仓库，去提出或者解决 feature、bug….
+Even, you can do nothing~ casually enter the pull requests of a project, see which code segment is uncomfortable, and make some comments~
 
-甚至，你可以什么都不用干 ~ 随便进入一个 项目的 pull requests 中，看到哪段代码不舒服吐槽两句~
+## Where to start
 
-## 从哪里开始
-
-我们有一个 https://github.com/kubecub/community 仓库，定义了社区的规范，以及各种模板。
+We have a https://github.com/kubecub/community repository, which defines community specifications and various templates.
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
-**[0000-template.md](http://0000-template.md/)**  是模板，我们可以用这个模板，然后可以写一个 markdown 格式的 proposal 到 PRC 目录中，以 PR 的形式~ 也算是走了一遍完整的PR。并且做好了开启一个项目前的策划工作。
+**[0000-template.md](http://0000-template.md/)** is a template. We can use this template and write a markdown format proposal to the PRC directory as a PR. This is considered a complete PR. And planning work before starting a project is done.
 
-阅读我们的 [贡献者指南](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md)，在里面，你能学习到为一个开源项目贡献代码的最佳规范和实践。
+Read our [Contributor's Guide](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md), where you can learn the best standards and practices for contributing code to an open-source project.
 
+## Future direction
 
-## 后期方向
+The power of one person is limited, and the open-source atmosphere in the later period is bound to become more prosperous. More and more partners or teams who want to join open-source are eager to have an existing solution.
 
-一个人的力量是有限的，后面的开源氛围肯定是越来越繁荣，越来越多希望加入开源的伙伴或者团队都渴望有一套现有的解决方案。
-
-我们会坚持 kubecub 的运营，并且带动开源爱好者成长，交流。
+We will insist on the operation of Kubecub and promote the growth and communication of open source enthusiasts.
