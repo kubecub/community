@@ -1,4 +1,4 @@
-# 什么是 kubecub？
+# What is kubecub?
 
 Kubecub is an open-source ecosystem project based on Kubernetes that provides chain capabilities to integrate all open-source ecosystems into a referenceable and reproducible system and specification. It includes not only distributed applications based on Kubernetes, but also the development and organization of open-source tools, as well as the management and specification design of all open-source projects based on Kubecub.
 
