@@ -23,20 +23,24 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: zh_CN
+          token: "${{ secrets.BOT_GITHUB_TOKEN }}"
       - name: Adding README - Chinese Traditional
         uses: dephraiim/translate-readme@main
         with:
           LANG: zh_TW
+          token: "${{ secrets.BOT_GITHUB_TOKEN }}"
       - name: Adding README - Hindi
         uses: dephraiim/translate-readme@main
         with:
           LANG: hi
+          token: "${{ secrets.BOT_GITHUB_TOKEN }}"
       - name: Adding README - Arabic
         uses: dephraiim/translate-readme@main
         with:
           LANG: ar
+          token: "${{ secrets.BOT_GITHUB_TOKEN }}"
       - name: Adding README - French
         uses: dephraiim/translate-readme@main
         with:
           LANG: fr
-          
+          token: "${{ secrets.BOT_GITHUB_TOKEN }}"
