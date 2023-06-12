@@ -27,7 +27,7 @@ jobs:
       - name: Adding README - Chinese Traditional
         uses: dephraiim/translate-readme@main
         with:
-          LANG: zh_TW
+          LANG: zh-TW
           token: "${{ secrets.BOT_GITHUB_TOKEN }}"
       - name: Adding README - Hindi
         uses: dephraiim/translate-readme@main
