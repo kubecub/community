@@ -18,7 +18,7 @@ Contrairement à d'autres communautés open source, Kubecub n'est pas simplement
 
 > 🔥 kubecub fournit la capacité des chaînes k8s.
 
-Je pense que Kubecub fournit à Kubernetes la possibilité de chaîner. Quelle est la capacité à enchaîner ?
+I think Kubecub provides Kubernetes with the ability to chain. What is the ability to chain?
 
 Alors que Kubernetes se développe rapidement, sous la direction de la Fondation CNCF, l'ensemble du domaine cloud natif est en plein essor, et les outils dans l'ensemble du domaine cloud natif sont innombrables, entraînant le développement et la prospérité de toute la communauté open source. Kubecub est né.
 
@@ -26,8 +26,8 @@ Kubecub est comme une blockchain qui enregistre tous les blocs dans un super gra
 
 Y compris, mais sans s'y limiter:
 
--   Applications distribuées basées sur Kubernetes, intégrant les solutions Kubernetes existantes.
--   Développement et organisation d'outils open-source.
+-   Distributed applications based on Kubernetes, integrating existing Kubernetes solutions.
+-   Development and organization of open-source tools.
 -   Gestion et conception des spécifications de tous les projets open-source basés sur Kubecub.
 
 ## Problèmes dans la communauté open source actuelle
@@ -36,7 +36,7 @@ Nous savons que tout projet open source de haut niveau ne peut se passer d'un mo
 
 Cependant, tous les projets n'ont pas le coût et l'énergie nécessaires pour fonctionner et automatiser la gestion, ce qui entraîne un manque ou très peu de spécifications automatisées, CICD et communautaires matures dans de nombreuses communautés.
 
-Kubecub mixes various DevOps means, using robots and actions to integrate means to manage automation and part of the community's operational work.
+Kubecub mixe différents moyens DevOps, en utilisant des robots et des actions pour intégrer des moyens pour gérer l'automatisation et une partie du travail opérationnel de la communauté.
 
 ## Qui peut participer au Kubecub ?
 
@@ -48,7 +48,7 @@ Kubecub n'a aucune contrainte !
 
 Vous pouvez proposer et mettre en œuvre une idée vous-même, vous pouvez la mettre en œuvre sur la base de propositions existantes dans des projets, vous pouvez également participer à n'importe quel référentiel pour proposer ou résoudre des fonctionnalités, des bugs, etc.
 
-Même, vous ne pouvez rien faire ~ entrer avec désinvolture les demandes d'extraction d'un projet, voir quel segment de code est inconfortable et faire quelques commentaires ~
+Even, you can do nothing~ casually enter the pull requests of a project, see which code segment is uncomfortable, and make some comments~
 
 ## Where to start
 
@@ -58,7 +58,7 @@ Nous avons un<https://github.com/kubecub/community>référentiel, qui définit l
 
 **[0000-template.md](http://0000-template.md/)**est un modèle. Nous pouvons utiliser ce modèle et rédiger une proposition de format de démarquage pour le répertoire PRC en tant que PR. Ceci est considéré comme un PR complet. Et le travail de planification avant de commencer un projet est fait.
 
-Lisez notre[Guide du contributeur](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md), where you can learn the best standards and practices for contributing code to an open-source project.
+Lisez notre[Guide du contributeur](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md), où vous pouvez découvrir les meilleures normes et pratiques pour contribuer au code d'un projet open source.
 
 ## Orientation future
 
