@@ -1,6 +1,6 @@
 # Qu'est-ce que le kubecub ?
 
-Kubecub est un projet d'écosystème open source basé sur Kubernetes qui fournit des capacités de chaîne pour intégrer tous les écosystèmes open source dans un système et des spécifications référençables et reproductibles. Il comprend non seulement des applications distribuées basées sur Kubernetes, mais également le développement et l'organisation d'outils open source, ainsi que la gestion et la conception des spécifications de tous les projets open source basés sur Kubecub.
+Kubecub est un projet d'écosystème open source basé sur Kubernetes qui fournit des capacités de chaîne pour intégrer tous les écosystèmes open source dans un système et une spécification référençables et reproductibles. Il comprend non seulement des applications distribuées basées sur Kubernetes, mais également le développement et l'organisation d'outils open source, ainsi que la gestion et la conception des spécifications de tous les projets open source basés sur Kubecub.
 
 Kubecub est une communauté open source dans le domaine du cloud natif dont l'objectif principal est d'aider à établir une spécification open source reproductible et de fournir un système opérationnel complet pour permettre à la communauté d'avoir un développement sain. Aujourd'hui, il existe de nombreux projets dans ce domaine, mais il manque souvent des normes uniformes en termes de spécifications et d'opérations. La vision de Kubecub est d'unifier les normes, d'améliorer la qualité des projets open source et de créer une communauté open source mondialement reconnue dans le domaine du cloud natif.
 
@@ -18,7 +18,7 @@ Contrairement à d'autres communautés open source, Kubecub n'est pas simplement
 
 > 🔥 kubecub fournit la capacité des chaînes k8s.
 
-I think Kubecub provides Kubernetes with the ability to chain. What is the ability to chain?
+Je pense que Kubecub fournit à Kubernetes la possibilité de chaîner. Quelle est la capacité à enchaîner ?
 
 Alors que Kubernetes se développe rapidement, sous la direction de la Fondation CNCF, l'ensemble du domaine cloud natif est en plein essor, et les outils dans l'ensemble du domaine cloud natif sont innombrables, entraînant le développement et la prospérité de toute la communauté open source. Kubecub est né.
 
@@ -26,8 +26,8 @@ Kubecub est comme une blockchain qui enregistre tous les blocs dans un super gra
 
 Y compris, mais sans s'y limiter:
 
--   Distributed applications based on Kubernetes, integrating existing Kubernetes solutions.
--   Development and organization of open-source tools.
+-   Applications distribuées basées sur Kubernetes, intégrant les solutions Kubernetes existantes.
+-   Développement et organisation d'outils open-source.
 -   Gestion et conception des spécifications de tous les projets open-source basés sur Kubecub.
 
 ## Problèmes dans la communauté open source actuelle
@@ -48,9 +48,9 @@ Kubecub n'a aucune contrainte !
 
 Vous pouvez proposer et mettre en œuvre une idée vous-même, vous pouvez la mettre en œuvre sur la base de propositions existantes dans des projets, vous pouvez également participer à n'importe quel référentiel pour proposer ou résoudre des fonctionnalités, des bugs, etc.
 
-Even, you can do nothing~ casually enter the pull requests of a project, see which code segment is uncomfortable, and make some comments~
+Même, vous ne pouvez rien faire ~ entrer avec désinvolture les demandes d'extraction d'un projet, voir quel segment de code est inconfortable et faire quelques commentaires ~
 
-## Where to start
+## Où commencer
 
 Nous avons un<https://github.com/kubecub/community>référentiel, qui définit les spécifications de la communauté et divers modèles.
 
