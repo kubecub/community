@@ -18,7 +18,7 @@ Kubecub目前正在設計一些工具，比如標籤同步器、機器人、自�
 
 > 🔥 kubecub 提供了 k8s 鏈的能力。
 
-I think Kubecub provides Kubernetes with the ability to chain. What is the ability to chain?
+我認為 Kubecub 為 Kubernetes 提供了上鍊的能力。什麼是連鎖能力？
 
 在Kubernetes飛速發展的同時，在CNCF基金會的引領下，整個雲原生領域蓬勃發展，整個雲原生領域的工具更是數不勝數，帶動了整個開源社區的發展與繁榮。 Kubecub 應運而生。
 
@@ -46,7 +46,7 @@ Kubecub 不需要錢！
 
 Kubecub 沒有任何限制！
 
-You can propose and implement an idea yourself, you can implement it based on existing proposals in projects, you can also participate in any repository to propose or solve features, bugs, etc.
+你可以自己提出並實施一個想法，你可以根據項目中現有的提案實施它，你也可以參與任何存儲庫來提出或解決功能、錯誤等。
 
 甚至，你什麼也做不了~隨便輸入一個項目的pull requests，看看哪個代碼段不舒服，提點意見~
 
@@ -56,7 +56,7 @@ You can propose and implement an idea yourself, you can implement it based on ex
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
-**[0000-template.md](http://0000-template.md/)** is a template. We can use this template and write a markdown format proposal to the PRC directory as a PR. This is considered a complete PR. And planning work before starting a project is done.
+**[0000-template.md](http://0000-template.md/)**是一個模板。我們可以使用這個模板，寫一個 markdown 格式的提案作為 PR 到 PRC 目錄。這被認為是一個完整的 PR。並在開始項目之前完成計劃工作。
 
 閱讀我們的[貢獻者指南](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md)，您可以在其中了解為開源項目貢獻代碼的最佳標準和實踐。
 
