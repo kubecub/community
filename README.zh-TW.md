@@ -2,7 +2,7 @@
 
 Kubecub 是一個基於 Kubernetes 的開源生態項目，提供鍊式能力，將所有開源生態整合成一個可引用、可複制的系統和規範。它不僅包括基於Kubernetes的分佈式應用，還包括開源工具的開發和組織，以及所有基於Kubecub的開源項目的管理和規範設計。
 
-Kubecub是雲原生領域的一個開源社區，其主要目標是幫助建立一個可複制的開源規範，並提供一個完整的操作系統，使社區能夠健康發展。如今，這一領域的項目很多，但在規範和操作上往往缺乏統一的標準。 Kubecub的願景是統一標準，提升開源項目質量，打造雲原生領域全球認可的開源社區。
+Kubecub is an open-source community in the cloud-native field whose main goal is to help establish a reproducible open-source specification and provide a complete operational system to enable the community to have healthy development. Today, there are many projects in this field, but often there is a lack of uniform standards in terms of specifications and operations. Kubecub's vision is to unify standards, improve the quality of open-source projects, and create a globally recognized open-source community in the cloud-native field.
 
 Kubecub主要是使用Golang編程語言開發的，但以後不局限於此。印象最深的是Kubecub的社區運營採用了先進高效的運營體系，這讓我深刻認識到了當前開源社區存在的問題。在這種運行模式下，Kubecub 管理員分配需求，為開源社區提供服務，及時得到反饋，並提供象徵性的獎勵。通過這些方式，Kubecub 的參與者可以獲得良好的開發體驗，也更容易堅持下去，從而使開源社區更健康、更好地發展。
 
@@ -40,7 +40,7 @@ Kubecub 混合了各種 DevOps 手段，使用機器人和動作來整合手段�
 
 ## 誰可以參與 Kubecub？
 
-Kubecub 沒有門檻！
+There is no threshold for Kubecub!
 
 Kubecub 不需要錢！
 
@@ -56,7 +56,7 @@ Kubecub 沒有任何限制！
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
-**[0000-template.md](http://0000-template.md/)**是一個模板。我們可以使用這個模板，寫一個 markdown 格式的提案作為 PR 到 PRC 目錄。這被認為是一個完整的 PR。並在開始項目之前完成計劃工作。
+**[0000-template.md](http://0000-template.md/)** is a template. We can use this template and write a markdown format proposal to the PRC directory as a PR. This is considered a complete PR. And planning work before starting a project is done.
 
 閱讀我們的[貢獻者指南](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md)，您可以在其中了解為開源項目貢獻代碼的最佳標準和實踐。
 
