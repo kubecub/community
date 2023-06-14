@@ -20,7 +20,7 @@ Contrairement à d'autres communautés open source, Kubecub n'est pas simplement
 
 Je pense que Kubecub fournit à Kubernetes la possibilité de chaîner. Quelle est la capacité à enchaîner ?
 
-While Kubernetes is developing rapidly, under the guidance of the CNCF Foundation, the entire cloud-native field is booming, and the tools in the entire cloud-native field are innumerable, driving the development and prosperity of the entire open-source community. Kubecub came into being.
+Alors que Kubernetes se développe rapidement, sous la direction de la Fondation CNCF, l'ensemble du domaine cloud natif est en plein essor, et les outils dans l'ensemble du domaine cloud natif sont innombrables, entraînant le développement et la prospérité de toute la communauté open source. Kubecub est né.
 
 Kubecub est comme une blockchain qui enregistre tous les blocs dans un super grand livre. Kubecub enchaîne tous les écosystèmes open source pour former un système et une spécification référençables et reproductibles.
 
@@ -36,7 +36,7 @@ Nous savons que tout projet open source de haut niveau ne peut se passer d'un mo
 
 Cependant, tous les projets n'ont pas le coût et l'énergie nécessaires pour fonctionner et automatiser la gestion, ce qui entraîne un manque ou très peu de spécifications automatisées, CICD et communautaires matures dans de nombreuses communautés.
 
-Kubecub mixe différents moyens DevOps, en utilisant des robots et des actions pour intégrer des moyens pour gérer l'automatisation et une partie du travail opérationnel de la communauté.
+Kubecub mixes various DevOps means, using robots and actions to integrate means to manage automation and part of the community's operational work.
 
 ## Qui peut participer au Kubecub ?
 
@@ -50,15 +50,15 @@ Vous pouvez proposer et mettre en œuvre une idée vous-même, vous pouvez la me
 
 Même, vous ne pouvez rien faire ~ entrer avec désinvolture les demandes d'extraction d'un projet, voir quel segment de code est inconfortable et faire quelques commentaires ~
 
-## Où commencer
+## Where to start
 
-Nous avons un<https://github.com/kubecub/community> repository, which defines community specifications and various templates.
+Nous avons un<https://github.com/kubecub/community>référentiel, qui définit les spécifications de la communauté et divers modèles.
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
 **[0000-template.md](http://0000-template.md/)**est un modèle. Nous pouvons utiliser ce modèle et rédiger une proposition de format de démarquage pour le répertoire PRC en tant que PR. Ceci est considéré comme un PR complet. Et le travail de planification avant de commencer un projet est fait.
 
-Lisez notre[Guide du contributeur](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md), où vous pouvez découvrir les meilleures normes et pratiques pour contribuer au code d'un projet open source.
+Lisez notre[Guide du contributeur](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md), where you can learn the best standards and practices for contributing code to an open-source project.
 
 ## Orientation future
 
