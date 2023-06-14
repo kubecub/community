@@ -2,7 +2,7 @@
 
 Kubecub هو مشروع نظام بيئي مفتوح المصدر يعتمد على Kubernetes الذي يوفر إمكانيات سلسلة لدمج جميع النظم الإيكولوجية مفتوحة المصدر في نظام ومواصفات قابلة للإحالة والتكرار. لا يشمل فقط التطبيقات الموزعة القائمة على Kubernetes ، ولكن أيضًا تطوير وتنظيم أدوات مفتوحة المصدر ، بالإضافة إلى تصميم الإدارة والمواصفات لجميع المشاريع مفتوحة المصدر القائمة على Kubecub.
 
-Kubecub is an open-source community in the cloud-native field whose main goal is to help establish a reproducible open-source specification and provide a complete operational system to enable the community to have healthy development. Today, there are many projects in this field, but often there is a lack of uniform standards in terms of specifications and operations. Kubecub's vision is to unify standards, improve the quality of open-source projects, and create a globally recognized open-source community in the cloud-native field.
+Kubecub هو مجتمع مفتوح المصدر في مجال السحابة الأصلية هدفه الرئيسي هو المساعدة في إنشاء مواصفات مفتوحة المصدر قابلة للتكرار وتوفير نظام تشغيل كامل لتمكين المجتمع من الحصول على تنمية صحية. يوجد اليوم العديد من المشاريع في هذا المجال ، ولكن غالبًا ما يكون هناك نقص في المعايير الموحدة من حيث المواصفات والعمليات. تتمثل رؤية Kubecub في توحيد المعايير وتحسين جودة المشاريع مفتوحة المصدر وإنشاء مجتمع مفتوح المصدر معترف به عالميًا في مجال السحابة الأصلية.
 
 تم تطوير Kubecub بشكل أساسي باستخدام لغة برمجة Golang ، ولكنه لا يقتصر على هذا في المستقبل. الأمر الأكثر إثارة للإعجاب هو أن عمليات مجتمع Kubecub تستخدم نظامًا تشغيليًا متقدمًا وفعالًا ، مما جعلني على دراية عميقة بالمشكلات الموجودة في مجتمع المصادر المفتوحة الحالي. في هذا الوضع التشغيلي ، يخصص مسؤولو Kubecub الطلبات ، ويقدمون الخدمات لمجتمع المصادر المفتوحة ، ويحصلون على التعليقات في الوقت المناسب ، ويقدمون مكافآت رمزية. من خلال هذه الوسائل ، يمكن للمشاركين في Kubecub الحصول على تجربة تطوير جيدة ومن المرجح أن يستمروا ، مما يجعل مجتمع المصدر المفتوح أكثر صحة وتطورًا.
 
@@ -22,7 +22,7 @@ Kubecub is an open-source community in the cloud-native field whose main goal is
 
 بينما تتطور Kubernetes بسرعة ، بتوجيه من مؤسسة CNCF ، يزدهر حقل السحابة الأصلي بأكمله ، والأدوات الموجودة في مجال السحابة الأصلية بالكامل لا تعد ولا تحصى ، مما يؤدي إلى تطوير وازدهار مجتمع المصادر المفتوحة بالكامل. ظهرت Kubecub إلى الوجود.
 
-Kubecub is like a blockchain that records all blocks in a super ledger. Kubecub chains all open-source ecosystems together to form a referenceable and reproducible system and specification.
+Kubecub يشبه blockchain يسجل جميع الكتل في دفتر الأستاذ الفائق. يربط Kubecub جميع الأنظمة البيئية مفتوحة المصدر معًا لتشكيل نظام ومواصفات قابلة للإحالة والتكرار.
 
 بما في ذلك على سبيل المثال لا الحصر:
 
