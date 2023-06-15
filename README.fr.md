@@ -4,7 +4,7 @@
     </b>
 </h1>
 <h3 align="center" style="border-bottom: none">
-      ⭐️  Open source automation community construction based on k8s cloud out of the box.  ⭐️ <br>
+      ⭐️  Open source automation community construction based on k8s  ⭐️ <br>
 <h3>
 
 <p align=center>
@@ -89,12 +89,12 @@ Nous avons un<https://github.com/kubecub/community>référentiel, qui définit l
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
-**[0000-template.md](http://0000-template.md/)**est un modèle. Nous pouvons utiliser ce modèle et rédiger une proposition de format de démarquage pour le répertoire PRC en tant que PR. Ceci est considéré comme un PR complet. Et le travail de planification avant de commencer un projet est fait.
+**[0000-template.md](http://0000-template.md/)** is a template. We can use this template and write a markdown format proposal to the PRC directory as a PR. This is considered a complete PR. And planning work before starting a project is done.
 
 Lisez notre[Guide du contributeur](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md), où vous pouvez découvrir les meilleures normes et pratiques pour contribuer au code d'un projet open source.
 
 ## Orientation future
 
-Le pouvoir d'une personne est limité et l'atmosphère open source de la période ultérieure est vouée à devenir plus prospère. De plus en plus de partenaires ou d'équipes qui souhaitent rejoindre l'open-source sont désireux d'avoir une solution existante.
+Le pouvoir d'une seule personne est limité et l'atmosphère open source de la période ultérieure est vouée à devenir plus prospère. De plus en plus de partenaires ou d'équipes qui souhaitent rejoindre l'open-source sont désireux d'avoir une solution existante.
 
 Nous insisterons sur le fonctionnement de Kubecub et favoriserons la croissance et la communication des passionnés de l'open source.
