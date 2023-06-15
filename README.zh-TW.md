@@ -53,7 +53,7 @@ Kubecub目前正在設計一些工具，比如標籤同步器、機器人、自�
 
 我認為 Kubecub 為 Kubernetes 提供了上鍊的能力。什麼是連鎖能力？
 
-在Kubernetes飛速發展的同時，在CNCF基金會的引領下，整個雲原生領域蓬勃發展，整個雲原生領域的工具更是數不勝數，帶動了整個開源社區的發展與繁榮。 Kubecub 應運而生。
+While Kubernetes is developing rapidly, under the guidance of the CNCF Foundation, the entire cloud-native field is booming, and the tools in the entire cloud-native field are innumerable, driving the development and prosperity of the entire open-source community. Kubecub came into being.
 
 Kubecub 就像一個區塊鏈，將所有區塊記錄在一個超級賬本中。 Kubecub 將所有開源生態系統鏈接在一起，形成一個可參考和可複制的系統和規範。
 
@@ -89,7 +89,7 @@ Kubecub 沒有任何限制！
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
-**[0000-template.md](http://0000-template.md/)**是一個模板。我們可以使用這個模板，寫一個 markdown 格式的提案作為 PR 到 PRC 目錄。這被認為是一個完整的 PR。並在開始項目之前完成計劃工作。
+**[0000-template.md](http://0000-template.md/)** is a template. We can use this template and write a markdown format proposal to the PRC directory as a PR. This is considered a complete PR. And planning work before starting a project is done.
 
 閱讀我們的[貢獻者指南](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md)，您可以在其中了解為開源項目貢獻代碼的最佳標準和實踐。
 
