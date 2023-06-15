@@ -95,6 +95,6 @@ Lisez notre[Guide du contributeur](https://github.com/kubecub/community/blob/mai
 
 ## Orientation future
 
-Le pouvoir d'une seule personne est limité et l'atmosphère open source de la période ultérieure est vouée à devenir plus prospère. De plus en plus de partenaires ou d'équipes qui souhaitent rejoindre l'open-source sont désireux d'avoir une solution existante.
+Le pouvoir d'une personne est limité et l'atmosphère open source de la période ultérieure est vouée à devenir plus prospère. De plus en plus de partenaires ou d'équipes qui souhaitent rejoindre l'open-source sont désireux d'avoir une solution existante.
 
 Nous insisterons sur le fonctionnement de Kubecub et favoriserons la croissance et la communication des passionnés de l'open source.
