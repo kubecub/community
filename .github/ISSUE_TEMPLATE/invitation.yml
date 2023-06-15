@@ -1,0 +1,36 @@
+# Copyright © 2023 KubeCub & Xinwei Xiong(cubxxw). All rights reserved.
+#
+# Licensed under the MIT License (the "License");
+# you may not use this file except in compliance with the License.
+
+name: Invitation to the GitHub Community Organization
+description: I would like to be part of the awesome community
+title: "Please invite me to the GitHub Community Organization"
+labels: [invite me to the organisation]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Insert your name here
+    validations:
+      required: true
+  - type: input
+    id: slackname
+    attributes:
+      label: Slack Username (if applicable)
+      placeholder: Insert your slack username here
+    validations:
+      required: false
+  - type: textarea
+    id: Additional
+    attributes:
+      label: Additional Context
+      description: Where did you meet KubeCub? What do you like about this community/Why do you want to join?
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        You can also join our Slack community [here](https://join.slack.com/t/kubecub/shared_invite/zt-1se0k2bae-lkYzz0_T~BYh3rjkvlcUqQ)
+        Feel free to check out other cool repositories of the kubecub Community [here](https://github.com/kubecub)
