@@ -37,13 +37,13 @@ Kubecub 是一个基于 Kubernetes 的开源生态项目，提供链式能力，
 
 Kubecub是云原生领域的一个开源社区，其主要目标是帮助建立一个可复制的开源规范，并提供一个完整的操作系统，使社区能够健康发展。如今，这一领域的项目很多，但在规范和操作上往往缺乏统一的标准。 Kubecub的愿景是统一标准，提升开源项目质量，打造云原生领域全球认可的开源社区。
 
-Kubecub主要是使用Golang编程语言开发的，但以后不局限于此。印象最深的是Kubecub的社区运营采用了先进高效的运营体系，这让我深刻的认识到了当前开源社区存在的问题。在这种运行模式下，Kubecub 管理员分配需求，为开源社区提供服务，及时得到反馈，并提供象征性的奖励。通过这些方式，Kubecub 的参与者可以获得良好的开发体验，更容易坚持，从而使开源社区更健康、更好地发展。
+Kubecub主要是使用Golang编程语言开发的，但以后不局限于此。印象最深的是Kubecub的社区运营采用了先进高效的运营体系，这让我深刻认识到了当前开源社区存在的问题。在这种运行模式下，Kubecub 管理员分配需求，为开源社区提供服务，及时得到反馈，并提供象征性的奖励。通过这些方式，Kubecub 的参与者可以获得良好的开发体验，更容易坚持，从而使开源社区更健康、更好地发展。
 
 Kubecub目前正在设计一些工具，比如标签同步器、机器人、自动化、AI、客服等，这些工具的主要目的是辅助开源社区的管理，提高运营效率。他们也希望从事二次开发的开发者能够使用和改进他们的工具，并遵守他们规定的开源规范。此外，Kubecub还在底层开发基于Kubernetes构建的分布式环境，用于运维整个社区。因此，Kubecub 是一个非常有前途的开源社区管理工具。
 
 综上所述，Kubecub的愿景是在云原生领域打造一个具有全球影响力的开源社区，不仅要提升开源项目的质量和规范，还要让开源项目更健康、更成熟。同时，Kubecub 提供高效的运营体系来吸引和留住参与者，从而促进云原生社区的发展。对于热衷于云原生领域的开发者来说，Kubecub 将是一个参与到标准化、可操作的开源社区，为云原生领域的进步贡献力量的宝贵机会。
 
-## 为什么要创建 Kubecub？
+## Why create Kubecub?
 
 与其他开源社区不同，Kubecub 不仅仅是 Kubecub 的产品或存储库。它的功能远不止于此。让我解释...
 
@@ -79,7 +79,7 @@ Kubecub 不需要钱！
 
 Kubecub 没有任何限制！
 
-你可以自己提出并实施一个想法，你可以根据项目中现有的提案实施它，你也可以参与任何存储库来提出或解决功能、错误等。
+You can propose and implement an idea yourself, you can implement it based on existing proposals in projects, you can also participate in any repository to propose or solve features, bugs, etc.
 
 甚至，你什么也做不了~随便输入一个项目的pull requests，看看哪个代码段不舒服，提点意见~
 
@@ -97,4 +97,4 @@ Kubecub 没有任何限制！
 
 一个人的力量是有限的，后期的开源氛围势必会更加兴盛。越来越多想要加入开源的合作伙伴或团队渴望有一个现成的解决方案。
 
-我们将坚持Kubecub的运营，促进开源爱好者的成长与交流。
+We will insist on the operation of Kubecub and promote the growth and communication of open source enthusiasts.
