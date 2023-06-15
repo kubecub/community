@@ -1,3 +1,36 @@
+<h1 align="center" style="border-bottom: none">
+    <b>
+        <a href="https://docker.nsddd.top">KubeCub</a><br>
+    </b>
+</h1>
+<h3 align="center" style="border-bottom: none">
+      ⭐️  Open source automation community construction based on k8s cloud out of the box.  ⭐️ <br>
+<h3>
+
+<p align=center>
+<a href="https://goreportcard.com/report/github.com/kubecub/go-project-layout"><img src="https://goreportcard.com/badge/github.com/kubecub/go-project-layout" alt="A+"></a>
+<a href="https://github.com/issues?q=org%kubecub+is%3Aissue+label%3A%22good+first+issue%22+no%3Aassignee"><img src="https://img.shields.io/github/issues/kubecub/go-project-layout/good%20first%20issue?logo=%22github%22" alt="good first"></a>
+<a href="https://github.com/kubecub/go-project-layout"><img src="https://img.shields.io/github/stars/kubecub/go-project-layout.svg?style=flat&logo=github&colorB=deeppink&label=stars"></a>
+<a href="https://join.slack.com/t/kubecub/shared_invite/zt-1se0k2bae-lkYzz0_T~BYh3rjkvlcUqQ"><img src="https://img.shields.io/badge/Slack-100%2B-blueviolet?logo=slack&amp;logoColor=white"></a>
+<a href="https://github.com/kubecub/go-project-layout/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-green"></a>
+<a href="https://golang.org/"><img src="https://img.shields.io/badge/Language-Go-blue.svg"></a>
+</p>
+
+</p>
+
+<p align="center">
+    <a href="./README-zh-CN.md"><b>简体中文</b></a> •
+    <a href="./README-zh-TW.md"><b>繁體中文</b></a> •
+    <a href="./README-hi.md"><b>हिन्दी</b></a> •
+    <a href="./README-ar.md"><b>العربية</b></a> •
+    <a href="./README-fr.md"><b>Français</b></a> •
+    <a href="./README.md"><b>English</b></a>
+</p>
+
+</p>
+
+* * *
+
 # 什麼是 kubecub？
 
 Kubecub 是一個基於 Kubernetes 的開源生態項目，提供鍊式能力，將所有開源生態整合成一個可引用、可複制的系統和規範。它不僅包括基於Kubernetes的分佈式應用，還包括開源工具的開發和組織，以及所有基於Kubecub的開源項目的管理和規範設計。
@@ -16,7 +49,7 @@ Kubecub目前正在設計一些工具，比如標籤同步器、機器人、自�
 
 **為什麼叫 Kubecub？**
 
-> 🔥 kubecub 提供了 k8s 鏈的能力。
+> 🔥 kubecub provides the capability of k8s chains.
 
 我認為 Kubecub 為 Kubernetes 提供了上鍊的能力。什麼是連鎖能力？
 
@@ -36,7 +69,7 @@ Kubecub 就像一個區塊鏈，將所有區塊記錄在一個超級賬本中。
 
 然而，並不是所有的項目都有成本和精力來運營和自動化管理，導致很多社區缺乏或很少有成熟的自動化和CICD和社區規範。
 
-Kubecub mixes various DevOps means, using robots and actions to integrate means to manage automation and part of the community's operational work.
+Kubecub 混合了各種 DevOps 手段，使用機器人和動作來整合手段來管理自動化和社區的部分運營工作。
 
 ## 誰可以參與 Kubecub？
 
