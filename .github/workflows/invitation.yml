@@ -10,7 +10,7 @@ on:
           uses: vj-abigo/invite-on-label@v1.2
           with:
             organization: kubecub
-            label: invite me to the community
+            label: invite me to the organisation
             repo-token: ${{ secrets.BOT_GITHUB_TOKEN }}
             comment: '<b>Invitation sent to join the Kubecub Community on GitHub. Welcome to the community 🎉</b><br><br>Don''t forget to also join our Slack community for more discussions and updates: https://join.slack.com/t/kubecub/shared_invite/zt-1se0k2bae-lkYzz0_T~BYh3rjkvlcUqQ<br><br>Feel free to check out other cool repositories of the Kubecub Community on GitHub: https://github.com/kubecub<br><br>Thank you for joining us and happy contributing!'
           env:
