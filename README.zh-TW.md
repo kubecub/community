@@ -37,7 +37,7 @@ Kubecub 是一個基於 Kubernetes 的開源生態項目，提供鍊式能力，
 
 Kubecub是雲原生領域的一個開源社區，其主要目標是幫助建立一個可複制的開源規範，並提供一個完整的操作系統，使社區能夠健康發展。如今，這一領域的項目很多，但在規範和操作上往往缺乏統一的標準。 Kubecub的願景是統一標準，提升開源項目質量，打造雲原生領域全球認可的開源社區。
 
-Kubecub主要是使用Golang編程語言開發的，但以後不局限於此。印象最深的是Kubecub的社區運營採用了先進高效的運營體系，這讓我深刻的認識到了當前開源社區存在的問題。在這種運行模式下，Kubecub 管理員分配需求，為開源社區提供服務，及時得到反饋，並提供象徵性的獎勵。通過這些方式，Kubecub 的參與者可以獲得良好的開發體驗，更容易堅持，從而使開源社區更健康、更好地發展。
+Kubecub主要是使用Golang編程語言開發的，但以後不局限於此。印象最深的是Kubecub的社區運營採用了先進高效的運營體系，這讓我深刻認識到了當前開源社區存在的問題。在這種運行模式下，Kubecub 管理員分配需求，為開源社區提供服務，及時得到反饋，並提供象徵性的獎勵。通過這些方式，Kubecub 的參與者可以獲得良好的開發體驗，也更容易堅持下去，從而使開源社區更健康、更好地發展。
 
 Kubecub目前正在設計一些工具，比如標籤同步器、機器人、自動化、AI、客服等，這些工具的主要目的是輔助開源社區的管理，提高運營效率。他們也希望從事二次開發的開發者能夠使用和改進他們的工具，並遵守他們規定的開源規範。此外，Kubecub還在底層開發基於Kubernetes構建的分佈式環境，用於運維整個社區。因此，Kubecub 是一個非常有前途的開源社區管理工具。
 
@@ -53,7 +53,7 @@ Kubecub目前正在設計一些工具，比如標籤同步器、機器人、自�
 
 我認為 Kubecub 為 Kubernetes 提供了上鍊的能力。什麼是連鎖能力？
 
-While Kubernetes is developing rapidly, under the guidance of the CNCF Foundation, the entire cloud-native field is booming, and the tools in the entire cloud-native field are innumerable, driving the development and prosperity of the entire open-source community. Kubecub came into being.
+在Kubernetes飛速發展的同時，在CNCF基金會的引領下，整個雲原生領域蓬勃發展，整個雲原生領域的工具更是數不勝數，帶動了整個開源社區的發展與繁榮。 Kubecub 應運而生。
 
 Kubecub 就像一個區塊鏈，將所有區塊記錄在一個超級賬本中。 Kubecub 將所有開源生態系統鏈接在一起，形成一個可參考和可複制的系統和規範。
 
@@ -89,7 +89,7 @@ Kubecub 沒有任何限制！
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
-**[0000-template.md](http://0000-template.md/)** is a template. We can use this template and write a markdown format proposal to the PRC directory as a PR. This is considered a complete PR. And planning work before starting a project is done.
+**[0000-template.md](http://0000-template.md/)**是一個模板。我們可以使用這個模板，寫一個 markdown 格式的提案作為 PR 到 PRC 目錄。這被認為是一個完整的 PR。並在開始項目之前完成計劃工作。
 
 閱讀我們的[貢獻者指南](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md)，您可以在其中了解為開源項目貢獻代碼的最佳標準和實踐。
 
