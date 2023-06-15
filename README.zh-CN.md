@@ -85,7 +85,7 @@ Kubecub 没有任何限制！
 
 ## 从哪儿开始
 
-我们有一个[HTTPS://GitHub.com/苦B ECU B/community](https://github.com/kubecub/community)存储库，它定义了社区规范和各种模板。
+我们有一个<https://github.com/kubecub/community>存储库，它定义了社区规范和各种模板。
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
