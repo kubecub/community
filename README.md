@@ -1,3 +1,38 @@
+<h1 align="center" style="border-bottom: none">
+    <b>
+        <a href="https://docker.nsddd.top">KubeCub</a><br>
+    </b>
+</h1>
+<h3 align="center" style="border-bottom: none">
+      ⭐️  Open source automation community construction based on k8s cloud out of the box.  ⭐️ <br>
+<h3>
+
+
+<p align=center>
+<a href="https://goreportcard.com/report/github.com/kubecub/go-project-layout"><img src="https://goreportcard.com/badge/github.com/kubecub/go-project-layout" alt="A+"></a>
+<a href="https://github.com/issues?q=org%kubecub+is%3Aissue+label%3A%22good+first+issue%22+no%3Aassignee"><img src="https://img.shields.io/github/issues/kubecub/go-project-layout/good%20first%20issue?logo=%22github%22" alt="good first"></a>
+<a href="https://github.com/kubecub/go-project-layout"><img src="https://img.shields.io/github/stars/kubecub/go-project-layout.svg?style=flat&logo=github&colorB=deeppink&label=stars"></a>
+<a href="https://join.slack.com/t/kubecub/shared_invite/zt-1se0k2bae-lkYzz0_T~BYh3rjkvlcUqQ"><img src="https://img.shields.io/badge/Slack-100%2B-blueviolet?logo=slack&amp;logoColor=white"></a>
+<a href="https://github.com/kubecub/go-project-layout/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-green"></a>
+<a href="https://golang.org/"><img src="https://img.shields.io/badge/Language-Go-blue.svg"></a>
+</p>
+
+</p>
+
+<p align="center">
+    <a href="./README-zh-CN.md"><b>简体中文</b></a> •
+    <a href="./README-zh-TW.md"><b>繁體中文</b></a> •
+    <a href="./README-hi.md"><b>हिन्दी</b></a> •
+    <a href="./README-ar.md"><b>العربية</b></a> •
+    <a href="./README-fr.md"><b>Français</b></a> •
+    <a href="./README.md"><b>English</b></a>
+</p>
+
+
+</p>
+
+----
+
 # What is kubecub?
 
 Kubecub is an open-source ecosystem project based on Kubernetes that provides chain capabilities to integrate all open-source ecosystems into a referenceable and reproducible system and specification. It includes not only distributed applications based on Kubernetes, but also the development and organization of open-source tools, as well as the management and specification design of all open-source projects based on Kubecub.
