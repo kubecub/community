@@ -49,7 +49,7 @@ Kubecub目前正在設計一些工具，比如標籤同步器、機器人、自�
 
 **為什麼叫 Kubecub？**
 
-> 🔥 kubecub provides the capability of k8s chains.
+> 🔥 kubecub 提供了 k8s 鏈的能力。
 
 我認為 Kubecub 為 Kubernetes 提供了上鍊的能力。什麼是連鎖能力？
 
@@ -69,7 +69,7 @@ Kubecub 就像一個區塊鏈，將所有區塊記錄在一個超級賬本中。
 
 然而，並不是所有的項目都有成本和精力來運營和自動化管理，導致很多社區缺乏或很少有成熟的自動化和CICD和社區規範。
 
-Kubecub 混合了各種 DevOps 手段，使用機器人和動作來整合手段來管理自動化和社區的部分運營工作。
+Kubecub mixes various DevOps means, using robots and actions to integrate means to manage automation and part of the community's operational work.
 
 ## 誰可以參與 Kubecub？
 
