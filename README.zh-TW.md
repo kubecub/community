@@ -69,7 +69,7 @@ Kubecub 就像一個區塊鏈，將所有區塊記錄在一個超級賬本中。
 
 然而，並不是所有的項目都有成本和精力來運營和自動化管理，導致很多社區缺乏或很少有成熟的自動化和CICD和社區規範。
 
-Kubecub mixes various DevOps means, using robots and actions to integrate means to manage automation and part of the community's operational work.
+Kubecub 混合了各種 DevOps 手段，使用機器人和動作來整合手段來管理自動化和社區的部分運營工作。
 
 ## 誰可以參與 Kubecub？
 
