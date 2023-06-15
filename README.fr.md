@@ -43,7 +43,7 @@ Kubecub conçoit actuellement certains outils, tels que les synchroniseurs d'ét
 
 En résumé, la vision de Kubecub est de créer une communauté open source d'influence mondiale dans le domaine du cloud natif, non seulement pour améliorer la qualité et les spécifications des projets open source, mais aussi pour rendre les projets open source plus sains et plus matures. Dans le même temps, Kubecub fournit un système opérationnel efficace pour attirer et fidéliser les participants, favorisant ainsi le développement de la communauté cloud-native. Pour les développeurs passionnés par le domaine cloud-native, Kubecub sera une opportunité inestimable de participer à la communauté open-source standardisée et opérationnelle et de contribuer à l'avancement du domaine cloud-native.
 
-## Why create Kubecub?
+## Pourquoi créer Kubecub ?
 
 Contrairement à d'autres communautés open source, Kubecub n'est pas simplement un produit ou un référentiel de Kubecub. Ses fonctions sont bien plus que cela. Laisse-moi expliquer...
 
