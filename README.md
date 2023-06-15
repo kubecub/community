@@ -4,7 +4,7 @@
     </b>
 </h1>
 <h3 align="center" style="border-bottom: none">
-      ⭐️  Open source automation community construction based on k8s cloud out of the box.  ⭐️ <br>
+      ⭐️  Open source automation community construction based on k8s  ⭐️ <br>
 <h3>
 
 
