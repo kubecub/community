@@ -19,23 +19,23 @@ jobs:
         with:
           node-version: 12.x
       # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages
-      - name: Adding README - Chinese Simplified
-        uses: dephraiim/translate-readme@main
+      - name: Auto Translate Readme Action
+        uses: kubbot/auto-translate-readme@v1.0.1
         with:
           LANG: zh-CN
       - name: Adding README - Chinese Traditional
-        uses: dephraiim/translate-readme@main
+        uses: kubbot/auto-translate-readme@v1.0.1
         with:
           LANG: zh-TW
       - name: Adding README - Hindi
-        uses: dephraiim/translate-readme@main
+        uses: kubbot/auto-translate-readme@v1.0.1
         with:
           LANG: hi
       - name: Adding README - Arabic
-        uses: dephraiim/translate-readme@main
+        uses: kubbot/auto-translate-readme@v1.0.1
         with:
           LANG: ar
       - name: Adding README - French
-        uses: dephraiim/translate-readme@main
+        uses: kubbot/auto-translate-readme@v1.0.1
         with:
           LANG: fr
