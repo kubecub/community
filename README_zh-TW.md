@@ -41,7 +41,7 @@ Kubecub主要使用Golang編程語言開發，但未來不僅限於此。印象�
 
 Kubecub目前正在設計一些工具，比如標籤同步器、機器人、自動化、AI、客服等，這些工具的主要目的是輔助開源社區的管理，提高運營效率。他們也希望從事二次開發的開發者能夠使用和改進他們的工具並遵守他們規定的開源規範。此外，Kubecub還在底層開發基於Kubernetes構建的分佈式環境，用於運維整個社區。因此，Kubecub是一個非常有前途的開源社區管理工具。
 
-綜上所述，Kubecub的願景是打造一個具有全球影響力的雲原生領域開源社區，不僅要提高開源項目的質量和規範，還要讓開源項目更加健康、成熟。同時，Kubecub提供高效的運營體係來吸引和留住參與者，從而促進云原生社區的發展。對於熱衷於雲原生領域的開發者來說，Kubecub將是一個寶貴的機會，參與到標準化、可操作的開源社區，為雲原生領域的進步做出貢獻。
+綜上所述，Kubecub的願景是打造一個具有全球影響力的雲原生領域開源社區，不僅要提高開源項目的質量和規範，還要讓開源項目更加健康、更加成熟。同時，Kubecub提供高效的運營體係來吸引和留住參與者，從而促進云原生社區的發展。對於熱衷於雲原生領域的開發者來說，Kubecub將是一個寶貴的機會，參與到標準化、可操作的開源社區，為雲原生領域的進步做出貢獻。
 
 ## 為什麼要創建 Kubecub？
 
@@ -65,13 +65,13 @@ Kubecub就像一個區塊鏈，將所有區塊記錄在一個超級賬本中。 
 
 ## 當前開源社區存在的問題
 
-我們知道任何頂級的開源項目都離不開頂級的運營模式，Kubernetes也不例外。對於 Kubernetes 來說，管理、運營和開發並不是相互排斥的，這也是為什麼 Kubernetes 社區仍然是整個開源社區的領導者。
+我們知道任何頂級的開源項目都離不開頂級的運營模式，Kubernetes也不例外。對於 Kubernetes 來說，管理、運維和開發並不是相互排斥的，這也是為什麼 Kubernetes 社區仍然是整個開源社區的領導者。
 
-然而，並不是所有的項目都有成本和精力去運營和自動化管理，導致很多社區缺乏或很少有成熟的自動化和CICD以及社區規範。
+However, not all projects have the cost and energy to operate and automate management, resulting in a lack of or very few mature automated and CICD and community specifications in many communities.
 
 Kubecub 混合了各種 DevOps 手段，使用機器人和動作來集成管理自動化和部分社區運營工作的手段。
 
-## 誰可以參與 Kubecub？
+## 誰可以參加 Kubecub？
 
 Kubecub沒有門檻！
 
