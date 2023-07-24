@@ -65,9 +65,9 @@ Kubecub就像一個區塊鏈，將所有區塊記錄在一個超級賬本中。 
 
 ## 當前開源社區存在的問題
 
-我們知道任何頂級的開源項目都離不開頂級的運營模式，Kubernetes也不例外。對於 Kubernetes 來說，管理、運維和開發並不是相互排斥的，這也是為什麼 Kubernetes 社區仍然是整個開源社區的領導者。
+我們知道任何頂級的開源項目都離不開頂級的運營模式，Kubernetes也不例外。對於 Kubernetes 來說，管理、運營和開發並不是相互排斥的，這也是為什麼 Kubernetes 社區仍然是整個開源社區的領導者。
 
-However, not all projects have the cost and energy to operate and automate management, resulting in a lack of or very few mature automated and CICD and community specifications in many communities.
+然而，並不是所有的項目都有成本和精力去運營和自動化管理，導致很多社區缺乏或很少有成熟的自動化和CICD以及社區規範。
 
 Kubecub 混合了各種 DevOps 手段，使用機器人和動作來集成管理自動化和部分社區運營工作的手段。
 
@@ -75,7 +75,7 @@ Kubecub 混合了各種 DevOps 手段，使用機器人和動作來集成管理�
 
 Kubecub沒有門檻！
 
-Kubecub不需要錢！
+Kubecub does not require money!
 
 Kubecub 沒有任何限制！
 
