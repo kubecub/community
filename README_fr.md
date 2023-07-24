@@ -79,9 +79,9 @@ Kubecub ne nécessite pas d'argent !
 
 Kubecub n'a aucune contrainte !
 
-You can propose and implement an idea yourself, you can implement it based on existing proposals in projects, you can also participate in any repository to propose or solve features, bugs, etc.
+Vous pouvez proposer et mettre en œuvre une idée vous-même, vous pouvez la mettre en œuvre sur la base de propositions existantes dans des projets, vous pouvez également participer à n'importe quel référentiel pour proposer ou résoudre des fonctionnalités, des bugs, etc.
 
-Even, you can do nothing~ casually enter the pull requests of a project, see which code segment is uncomfortable, and make some comments~
+Même, vous ne pouvez rien faire ~ entrer avec désinvolture les demandes d'extraction d'un projet, voir quel segment de code est inconfortable et faire quelques commentaires ~
 
 ## Où commencer
 
