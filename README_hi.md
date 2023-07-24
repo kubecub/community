@@ -41,9 +41,9 @@
 
 क्यूबेकब वर्तमान में कुछ टूल डिज़ाइन कर रहा है, जैसे लेबल सिंक्रोनाइज़र, रोबोट, ऑटोमेशन, एआई, ग्राहक सेवा इत्यादि। इन टूल का मुख्य उद्देश्य ओपन-सोर्स समुदायों के प्रबंधन में सहायता करना और परिचालन दक्षता में सुधार करना है। वे यह भी आशा करते हैं कि जो डेवलपर्स द्वितीयक विकास में संलग्न हैं, वे अपने टूल का उपयोग और सुधार कर सकते हैं और उनके निर्धारित ओपन-सोर्स विनिर्देशों का अनुपालन कर सकते हैं। इसके अलावा, क्यूबेकब पूरे समुदाय को संचालित करने और बनाए रखने के लिए निचले स्तर पर कुबेरनेट्स पर निर्मित एक वितरित वातावरण भी विकसित कर रहा है। इसलिए, क्यूबेकब एक बहुत ही आशाजनक ओपन-सोर्स सामुदायिक प्रबंधन उपकरण है।
 
-In summary, Kubecub's vision is to create a globally influential open-source community in the cloud-native field, not only to improve the quality and specifications of open-source projects but also to make open-source projects healthier and more mature. At the same time, Kubecub provides an efficient operational system to attract and retain participants, thereby promoting the development of the cloud-native community. For developers who are passionate about the cloud-native field, Kubecub will be an invaluable opportunity to participate in the standardized and operational open-source community and contribute to the progress of the cloud-native field.
+संक्षेप में, क्यूबेकब का दृष्टिकोण क्लाउड-नेटिव क्षेत्र में विश्व स्तर पर प्रभावशाली ओपन-सोर्स समुदाय बनाना है, न केवल ओपन-सोर्स परियोजनाओं की गुणवत्ता और विशिष्टताओं में सुधार करना है बल्कि ओपन-सोर्स परियोजनाओं को स्वस्थ और अधिक परिपक्व बनाना है। साथ ही, क्यूबेकब प्रतिभागियों को आकर्षित करने और बनाए रखने के लिए एक कुशल परिचालन प्रणाली प्रदान करता है, जिससे क्लाउड-नेटिव समुदाय के विकास को बढ़ावा मिलता है। जो डेवलपर्स क्लाउड-नेटिव क्षेत्र के बारे में भावुक हैं, उनके लिए क्यूबेकब मानकीकृत और परिचालन ओपन-सोर्स समुदाय में भाग लेने और क्लाउड-नेटिव क्षेत्र की प्रगति में योगदान करने का एक अमूल्य अवसर होगा।
 
-## Why create Kubecub?
+## कुबेक्यूब क्यों बनाएं?
 
 अन्य ओपन-सोर्स समुदायों के विपरीत, क्यूबेकब केवल क्यूबेकब का एक उत्पाद या भंडार नहीं है। इसके कार्य उससे कहीं अधिक हैं. मुझे समझाने दो...
 
@@ -53,13 +53,13 @@ In summary, Kubecub's vision is to create a globally influential open-source com
 
 मुझे लगता है कि क्यूबेकब कुबेरनेट्स को श्रृंखलाबद्ध करने की क्षमता प्रदान करता है। जंजीर बनाने की क्षमता क्या है?
 
-While Kubernetes is developing rapidly, under the guidance of the CNCF Foundation, the entire cloud-native field is booming, and the tools in the entire cloud-native field are innumerable, driving the development and prosperity of the entire open-source community. Kubecub came into being.
+जबकि कुबेरनेट्स सीएनसीएफ फाउंडेशन के मार्गदर्शन में तेजी से विकसित हो रहा है, संपूर्ण क्लाउड-नेटिव क्षेत्र फलफूल रहा है, और पूरे क्लाउड-नेटिव क्षेत्र में उपकरण असंख्य हैं, जो पूरे ओपन-सोर्स समुदाय के विकास और समृद्धि को चला रहे हैं। कुबेक्यूब अस्तित्व में आया।
 
 क्यूबेकब एक ब्लॉकचेन की तरह है जो सभी ब्लॉकों को एक सुपर लेजर में रिकॉर्ड करता है। क्यूबेकब एक संदर्भ योग्य और प्रतिलिपि प्रस्तुत करने योग्य प्रणाली और विनिर्देश बनाने के लिए सभी ओपन-सोर्स पारिस्थितिक तंत्रों को एक साथ जोड़ता है।
 
 सहित लेकिन सीमित नहीं:
 
--   कुबेरनेट्स पर आधारित एप्लिकेशन वितरित किए गए, मौजूदा कुबेरनेट्स समाधानों को एकीकृत किया गया।
+-   मौजूदा कुबेरनेट्स समाधानों को एकीकृत करते हुए, कुबेरनेट्स पर आधारित एप्लिकेशन वितरित किए गए।
 -   ओपन-सोर्स टूल का विकास और संगठन।
 -   क्यूबेकब पर आधारित सभी ओपन-सोर्स परियोजनाओं का प्रबंधन और विनिर्देश डिजाइन।
 
@@ -67,7 +67,7 @@ While Kubernetes is developing rapidly, under the guidance of the CNCF Foundatio
 
 हम जानते हैं कि कोई भी शीर्ष-स्तरीय ओपन-सोर्स प्रोजेक्ट कुबेरनेट्स सहित शीर्ष-स्तरीय परिचालन मोड के बिना नहीं चल सकता है। कुबेरनेट्स के लिए, प्रबंधन, संचालन और विकास परस्पर अनन्य नहीं हैं, यही कारण है कि कुबेरनेट्स समुदाय अभी भी पूरे ओपन-सोर्स समुदाय में अग्रणी है।
 
-हालाँकि, सभी परियोजनाओं में प्रबंधन को संचालित करने और स्वचालित करने के लिए लागत और ऊर्जा नहीं होती है, जिसके परिणामस्वरूप कई समुदायों में परिपक्व स्वचालित और सीआईसीडी और सामुदायिक विशिष्टताओं की कमी होती है या बहुत कम होती है।
+However, not all projects have the cost and energy to operate and automate management, resulting in a lack of or very few mature automated and CICD and community specifications in many communities.
 
 क्यूबेकब स्वचालन और समुदाय के परिचालन कार्य के हिस्से को प्रबंधित करने के साधनों को एकीकृत करने के लिए रोबोट और क्रियाओं का उपयोग करके विभिन्न DevOps साधनों को मिश्रित करता है।
 
