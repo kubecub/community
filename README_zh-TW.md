@@ -41,7 +41,7 @@ Kubecub主要使用Golang編程語言開發，但未來不僅限於此。印象�
 
 Kubecub目前正在設計一些工具，比如標籤同步器、機器人、自動化、AI、客服等，這些工具的主要目的是輔助開源社區的管理，提高運營效率。他們也希望從事二次開發的開發者能夠使用和改進他們的工具並遵守他們規定的開源規範。此外，Kubecub還在底層開發基於Kubernetes構建的分佈式環境，用於運維整個社區。因此，Kubecub是一個非常有前途的開源社區管理工具。
 
-綜上所述，Kubecub的願景是打造一個具有全球影響力的雲原生領域開源社區，不僅要提高開源項目的質量和規範，還要讓開源項目更加健康、更加成熟。同時，Kubecub提供高效的運營體係來吸引和留住參與者，從而促進云原生社區的發展。對於熱衷於雲原生領域的開發者來說，Kubecub將是一個寶貴的機會，參與到標準化、可操作的開源社區，為雲原生領域的進步做出貢獻。
+In summary, Kubecub's vision is to create a globally influential open-source community in the cloud-native field, not only to improve the quality and specifications of open-source projects but also to make open-source projects healthier and more mature. At the same time, Kubecub provides an efficient operational system to attract and retain participants, thereby promoting the development of the cloud-native community. For developers who are passionate about the cloud-native field, Kubecub will be an invaluable opportunity to participate in the standardized and operational open-source community and contribute to the progress of the cloud-native field.
 
 ## 為什麼要創建 Kubecub？
 
@@ -75,7 +75,7 @@ Kubecub 混合了各種 DevOps 手段，使用機器人和動作來集成管理�
 
 Kubecub沒有門檻！
 
-Kubecub does not require money!
+Kubecub不需要錢！
 
 Kubecub 沒有任何限制！
 
