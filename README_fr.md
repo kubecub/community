@@ -33,7 +33,7 @@
 
 # Qu'est-ce que le kubecub ?
 
-Kubecub est un projet d'écosystème open source basé sur Kubernetes qui fournit des capacités de chaîne pour intégrer tous les écosystèmes open source dans un système et des spécifications référençables et reproductibles. Il comprend non seulement des applications distribuées basées sur Kubernetes, mais également le développement et l'organisation d'outils open source, ainsi que la gestion et la conception des spécifications de tous les projets open source basés sur Kubecub.
+Kubecub est un projet d'écosystème open source basé sur Kubernetes qui fournit des capacités de chaîne pour intégrer tous les écosystèmes open source dans un système et une spécification référençables et reproductibles. Il comprend non seulement des applications distribuées basées sur Kubernetes, mais également le développement et l'organisation d'outils open source, ainsi que la gestion et la conception des spécifications de tous les projets open source basés sur Kubecub.
 
 Kubecub est une communauté open source dans le domaine du cloud natif dont l'objectif principal est d'aider à établir une spécification open source reproductible et de fournir un système opérationnel complet pour permettre à la communauté d'avoir un développement sain. Aujourd'hui, il existe de nombreux projets dans ce domaine, mais il manque souvent des normes uniformes en termes de spécifications et d'opérations. La vision de Kubecub est d'unifier les normes, d'améliorer la qualité des projets open source et de créer une communauté open source mondialement reconnue dans le domaine du cloud natif.
 
@@ -53,7 +53,7 @@ Contrairement à d'autres communautés open source, Kubecub n'est pas simplement
 
 Je pense que Kubecub fournit à Kubernetes la possibilité de chaîner. Quelle est la capacité à enchaîner ?
 
-Alors que Kubernetes se développe rapidement, sous la direction de la Fondation CNCF, l'ensemble du domaine cloud natif est en plein essor, et les outils dans l'ensemble du domaine cloud natif sont innombrables, entraînant le développement et la prospérité de toute la communauté open source. Kubecub est né.
+While Kubernetes is developing rapidly, under the guidance of the CNCF Foundation, the entire cloud-native field is booming, and the tools in the entire cloud-native field are innumerable, driving the development and prosperity of the entire open-source community. Kubecub came into being.
 
 Kubecub est comme une blockchain qui enregistre tous les blocs dans un super grand livre. Kubecub enchaîne tous les écosystèmes open source pour former un système et une spécification référençables et reproductibles.
 
@@ -71,7 +71,7 @@ Cependant, tous les projets n'ont pas le coût et l'énergie nécessaires pour f
 
 Kubecub mixe différents moyens DevOps, en utilisant des robots et des actions pour intégrer des moyens pour gérer l'automatisation et une partie du travail opérationnel de la communauté.
 
-## Qui peut participer au Kubecub ?
+## Who can participate in Kubecub?
 
 Il n'y a pas de seuil pour Kubecub !
 
@@ -79,7 +79,7 @@ Kubecub ne nécessite pas d'argent !
 
 Kubecub n'a aucune contrainte !
 
-Vous pouvez proposer et mettre en œuvre une idée vous-même, vous pouvez la mettre en œuvre sur la base de propositions existantes dans des projets, vous pouvez également participer à n'importe quel référentiel pour proposer ou résoudre des fonctionnalités, des bugs, etc.
+You can propose and implement an idea yourself, you can implement it based on existing proposals in projects, you can also participate in any repository to propose or solve features, bugs, etc.
 
 Même, vous ne pouvez rien faire ~ entrer avec désinvolture les demandes d'extraction d'un projet, voir quel segment de code est inconfortable et faire quelques commentaires ~
 
@@ -95,6 +95,6 @@ Lisez notre[Guide du contributeur](https://github.com/kubecub/community/blob/mai
 
 ## Orientation future
 
-Le pouvoir d'une personne est limité et l'atmosphère open source de la période ultérieure est vouée à devenir plus prospère. De plus en plus de partenaires ou d'équipes qui souhaitent rejoindre l'open-source sont désireux d'avoir une solution existante.
+Le pouvoir d'une seule personne est limité et l'atmosphère open source de la période ultérieure est vouée à devenir plus prospère. De plus en plus de partenaires ou d'équipes qui souhaitent rejoindre l'open-source sont désireux d'avoir une solution existante.
 
 Nous insisterons sur le fonctionnement de Kubecub et favoriserons la croissance et la communication des passionnés de l'open source.
