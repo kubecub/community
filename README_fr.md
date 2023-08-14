@@ -41,7 +41,7 @@ Kubecub est principalement développé en utilisant le langage de programmation 
 
 Kubecub conçoit actuellement certains outils, tels que les synchroniseurs d'étiquettes, les robots, l'automatisation, l'IA, le service client, etc. L'objectif principal de ces outils est d'aider à la gestion des communautés open source et d'améliorer l'efficacité opérationnelle. Ils espèrent également que les développeurs qui s'engagent dans le développement secondaire pourront utiliser et améliorer leurs outils et se conformer aux spécifications open source prescrites. De plus, Kubecub développe également un environnement distribué construit sur Kubernetes en bas pour exploiter et maintenir l'ensemble de la communauté. Par conséquent, Kubecub est un outil de gestion de communauté open source très prometteur.
 
-En résumé, la vision de Kubecub est de créer une communauté open source d'influence mondiale dans le domaine du cloud natif, non seulement pour améliorer la qualité et les spécifications des projets open source, mais aussi pour rendre les projets open source plus sains et plus matures. Dans le même temps, Kubecub fournit un système opérationnel efficace pour attirer et fidéliser les participants, favorisant ainsi le développement de la communauté cloud-native. Pour les développeurs passionnés par le domaine cloud-native, Kubecub sera une opportunité inestimable de participer à la communauté open-source standardisée et opérationnelle et de contribuer à l'avancement du domaine cloud-native.
+En résumé, la vision de Kubecub est de créer une communauté open source d'influence mondiale dans le domaine du cloud natif, non seulement pour améliorer la qualité et les spécifications des projets open source, mais aussi pour rendre les projets open source plus sains et plus matures. Dans le même temps, Kubecub fournit un système opérationnel efficace pour attirer et fidéliser les participants, favorisant ainsi le développement de la communauté cloud-native. Pour les développeurs passionnés par le domaine cloud-natif, Kubecub sera une opportunité inestimable de participer à la communauté open-source standardisée et opérationnelle et de contribuer à l'avancement du domaine cloud-natif.
 
 ## Pourquoi créer Kubecub ?
 
@@ -53,7 +53,7 @@ Contrairement à d'autres communautés open source, Kubecub n'est pas simplement
 
 Je pense que Kubecub fournit à Kubernetes la possibilité de chaîner. Quelle est la capacité à enchaîner ?
 
-While Kubernetes is developing rapidly, under the guidance of the CNCF Foundation, the entire cloud-native field is booming, and the tools in the entire cloud-native field are innumerable, driving the development and prosperity of the entire open-source community. Kubecub came into being.
+Alors que Kubernetes se développe rapidement, sous la direction de la Fondation CNCF, l'ensemble du domaine cloud natif est en plein essor, et les outils dans l'ensemble du domaine cloud natif sont innombrables, entraînant le développement et la prospérité de toute la communauté open source. Kubecub est né.
 
 Kubecub est comme une blockchain qui enregistre tous les blocs dans un super grand livre. Kubecub enchaîne tous les écosystèmes open source pour former un système et une spécification référençables et reproductibles.
 
@@ -71,7 +71,7 @@ Cependant, tous les projets n'ont pas le coût et l'énergie nécessaires pour f
 
 Kubecub mixe différents moyens DevOps, en utilisant des robots et des actions pour intégrer des moyens pour gérer l'automatisation et une partie du travail opérationnel de la communauté.
 
-## Who can participate in Kubecub?
+## Qui peut participer au Kubecub ?
 
 Il n'y a pas de seuil pour Kubecub !
 
@@ -79,7 +79,7 @@ Kubecub ne nécessite pas d'argent !
 
 Kubecub n'a aucune contrainte !
 
-You can propose and implement an idea yourself, you can implement it based on existing proposals in projects, you can also participate in any repository to propose or solve features, bugs, etc.
+Vous pouvez proposer et mettre en œuvre une idée vous-même, vous pouvez la mettre en œuvre sur la base de propositions existantes dans des projets, vous pouvez également participer à n'importe quel référentiel pour proposer ou résoudre des fonctionnalités, des bugs, etc.
 
 Même, vous ne pouvez rien faire ~ entrer avec désinvolture les demandes d'extraction d'un projet, voir quel segment de code est inconfortable et faire quelques commentaires ~
 
