@@ -35,9 +35,9 @@
 
 Kubecub是一個基於Kubernetes的開源生態項目，提供鏈上能力，將所有開源生態整合成一個可參考、可複制的系統和規範。它不僅包括基於Kubernetes的分佈式應用，還包括開源工具的開發和組織，以及基於Kubecub的所有開源項目的管理和規範設計。
 
-Kubecub是雲原生領域的開源社區，其主要目標是幫助建立可複制的開源規範，並提供完整的運營體系，使社區能夠健康發展。如今，該領域的項目很多，但在規格和操作方面往往缺乏統一的標準。 Kubecub的願景是統一標準，提高開源項目質量，打造全球認可的雲原生領域開源社區。
+Kubecub is an open-source community in the cloud-native field whose main goal is to help establish a reproducible open-source specification and provide a complete operational system to enable the community to have healthy development. Today, there are many projects in this field, but often there is a lack of uniform standards in terms of specifications and operations. Kubecub's vision is to unify standards, improve the quality of open-source projects, and create a globally recognized open-source community in the cloud-native field.
 
-Kubecub主要使用Golang編程語言開發，但未來不僅限於此。印象最深的是Kubecub的社區運營採用了先進高效的運營體系，這讓我深刻認識到當前開源社區存在的問題。在這種運營模式下，Kubecub管理員分配需求，為開源社區提供服務，及時獲得反饋，並提供象徵性獎勵。通過這些手段，Kubecub參與者可以獲得良好的開發體驗，更有可能堅持下去，從而使開源社區更健康、更好的發展。
+Kubecub主要使用Golang編程語言開發，但未來不僅限於此。印象最深刻的是Kubecub的社區運營採用了先進高效的運營體系，這讓我深刻認識到當前開源社區存在的問題。在這種運營模式下，Kubecub管理員分配需求，為開源社區提供服務，及時獲得反饋，並提供象徵性獎勵。通過這些手段，Kubecub參與者可以獲得良好的開發體驗，更有可能堅持下去，從而使開源社區更健康、更好的發展。
 
 Kubecub目前正在設計一些工具，比如標籤同步器、機器人、自動化、AI、客服等，這些工具的主要目的是輔助開源社區的管理，提高運營效率。他們也希望從事二次開發的開發者能夠使用和改進他們的工具並遵守他們規定的開源規範。此外，Kubecub還在底層開發基於Kubernetes構建的分佈式環境，用於運維整個社區。因此，Kubecub是一個非常有前途的開源社區管理工具。
 
@@ -71,7 +71,7 @@ Kubecub就像一個區塊鏈，將所有區塊記錄在一個超級賬本中。 
 
 Kubecub 混合了各種 DevOps 手段，使用機器人和動作來集成管理自動化和部分社區運營工作的手段。
 
-## 誰可以參加 Kubecub？
+## 誰可以參與 Kubecub？
 
 Kubecub沒有門檻！
 
@@ -97,4 +97,4 @@ Kubecub 沒有任何限制！
 
 一個人的力量是有限的，後期的開源氛圍勢必會更加繁榮。越來越多想要加入開源的合作夥伴或團隊都渴望擁有一個現成的解決方案。
 
-We will insist on the operation of Kubecub and promote the growth and communication of open source enthusiasts.
+我們將堅持Kubecub的運營，促進開源愛好者的成長和交流。
