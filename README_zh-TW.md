@@ -37,7 +37,7 @@ Kubecub是一個基於Kubernetes的開源生態項目，提供鏈上能力，將
 
 Kubecub是雲原生領域的開源社區，其主要目標是幫助建立可複制的開源規範，並提供完整的運營體系，使社區能夠健康發展。如今，該領域的項目很多，但在規格和操作方面往往缺乏統一的標準。 Kubecub的願景是統一標準，提高開源項目質量，打造全球認可的雲原生領域開源社區。
 
-Kubecub主要使用Golang編程語言開發，但未來不僅限於此。印象最深刻的是Kubecub的社區運營採用了先進高效的運營體系，這讓我深刻認識到當前開源社區存在的問題。在這種運營模式下，Kubecub管理員分配需求，為開源社區提供服務，及時獲得反饋，並提供象徵性獎勵。通過這些手段，Kubecub參與者可以獲得良好的開發體驗，更有可能堅持下去，從而使開源社區更健康、更好的發展。
+Kubecub主要使用Golang編程語言開發，但未來不僅限於此。印象最深的是Kubecub的社區運營採用了先進高效的運營體系，這讓我深刻認識到當前開源社區存在的問題。在這種運營模式下，Kubecub管理員分配需求，為開源社區提供服務，及時獲得反饋，並提供象徵性獎勵。通過這些手段，Kubecub參與者可以獲得良好的開發體驗，更有可能堅持下去，從而使開源社區更健康、更好的發展。
 
 Kubecub目前正在設計一些工具，比如標籤同步器、機器人、自動化、AI、客服等，這些工具的主要目的是輔助開源社區的管理，提高運營效率。他們也希望從事二次開發的開發者能夠使用和改進他們的工具並遵守他們規定的開源規範。此外，Kubecub還在底層開發基於Kubernetes構建的分佈式環境，用於運維整個社區。因此，Kubecub是一個非常有前途的開源社區管理工具。
 
@@ -53,39 +53,39 @@ Kubecub目前正在設計一些工具，比如標籤同步器、機器人、自�
 
 我認為Kubecub為Kubernetes提供了鏈的能力。連鎖能力是什麼？
 
-While Kubernetes is developing rapidly, under the guidance of the CNCF Foundation, the entire cloud-native field is booming, and the tools in the entire cloud-native field are innumerable, driving the development and prosperity of the entire open-source community. Kubecub came into being.
+在 Kubernetes 快速發展的同時，在 CNCF 基金會的引導下，整個雲原生領域蓬勃發展，整個雲原生領域的工具數不勝數，帶動了整個開源社區的發展和繁榮。 Kubecub應運而生。
 
 Kubecub就像一個區塊鏈，將所有區塊記錄在一個超級賬本中。 Kubecub將所有開源生態系統鏈接在一起，形成可參考、可複制的系統和規範。
 
 包括但不僅限於：
 
 -   基於Kubernetes的分佈式應用，集成現有的Kubernetes解決方案。
--   Development and organization of open-source tools.
+-   開源工具的開發和組織。
 -   基於Kubecub的所有開源項目的管理和規範設計。
 
 ## 當前開源社區存在的問題
 
-我們知道任何頂級的開源項目都離不開頂級的運營模式，Kubernetes也不例外。對於 Kubernetes 來說，管理、運維和開發並不是相互排斥的，這也是為什麼 Kubernetes 社區仍然是整個開源社區的領導者。
+We know that any top-level open-source project cannot do without a top-level operational mode, including Kubernetes. For Kubernetes, management, operations, and development are not mutually exclusive, which is why the Kubernetes community is still the leader in the entire open-source community.
 
 然而，並不是所有的項目都有成本和精力去運營和自動化管理，導致很多社區缺乏或很少有成熟的自動化和CICD以及社區規範。
 
 Kubecub 混合了各種 DevOps 手段，使用機器人和動作來集成管理自動化和部分社區運營工作的手段。
 
-## 誰可以參與 Kubecub？
+## 誰可以參加 Kubecub？
 
 Kubecub沒有門檻！
 
-Kubecub does not require money!
+Kubecub不需要錢！
 
 Kubecub 沒有任何限制！
 
 您可以自己提出並實現一個想法，您可以根據項目中現有的提案來實現它，您還可以參與任何存儲庫來提出或解決功能、錯誤等。
 
-甚至，你什麼也做不了~隨便輸入一個項目的pull requests，看看哪個代碼段不舒服，評論一下~
+甚至，你什麼也做不了~隨便輸入一個項目的pull requests，看看哪個代碼段不爽，評論一下~
 
 ## 從哪兒開始
 
-我們有一個<https://github.com/kubecub/community> repository, which defines community specifications and various templates.
+我們有一個<https://github.com/kubecub/community>存儲庫，定義社區規範和各種模板。
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
