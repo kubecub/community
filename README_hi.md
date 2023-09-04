@@ -39,9 +39,9 @@
 
 क्यूबेक्यूब को मुख्य रूप से गोलांग प्रोग्रामिंग भाषा का उपयोग करके विकसित किया गया है, लेकिन भविष्य में यह यहीं तक सीमित नहीं है। सबसे प्रभावशाली बात यह है कि क्यूबेक्यूब के सामुदायिक संचालन एक उन्नत और कुशल परिचालन प्रणाली का उपयोग करते हैं, जिसने मुझे वर्तमान ओपन-सोर्स समुदाय में मौजूद समस्याओं के बारे में गहराई से अवगत कराया। इस परिचालन मोड में, क्यूबेकब प्रशासक मांगों को आवंटित करते हैं, ओपन-सोर्स समुदाय को सेवाएं प्रदान करते हैं, समय पर प्रतिक्रिया प्राप्त करते हैं और प्रतीकात्मक पुरस्कार प्रदान करते हैं। इन माध्यमों से, क्यूबेक्यूब प्रतिभागियों को एक अच्छा विकास अनुभव मिल सकता है और उनके बने रहने की अधिक संभावना है, जिससे ओपन-सोर्स समुदाय स्वस्थ और बेहतर विकसित हो सकता है।
 
-Kubecub is currently designing some tools, such as label synchronizers, robots, automation, AI, customer service, etc. The main purpose of these tools is to assist in the management of open-source communities and improve operational efficiency. They also hope that developers who engage in secondary development can use and improve their tools and comply with their prescribed open-source specifications. In addition, Kubecub is also developing a distributed environment built on Kubernetes at the bottom to operate and maintain the entire community. Therefore, Kubecub is a very promising open-source community management tool.
+क्यूबेकब वर्तमान में कुछ टूल डिज़ाइन कर रहा है, जैसे लेबल सिंक्रोनाइज़र, रोबोट, ऑटोमेशन, एआई, ग्राहक सेवा इत्यादि। इन टूल का मुख्य उद्देश्य ओपन-सोर्स समुदायों के प्रबंधन में सहायता करना और परिचालन दक्षता में सुधार करना है। वे यह भी आशा करते हैं कि जो डेवलपर्स द्वितीयक विकास में संलग्न हैं, वे अपने टूल का उपयोग और सुधार कर सकते हैं और उनके निर्धारित ओपन-सोर्स विनिर्देशों का अनुपालन कर सकते हैं। इसके अलावा, क्यूबेकब पूरे समुदाय को संचालित करने और बनाए रखने के लिए निचले स्तर पर कुबेरनेट्स पर निर्मित एक वितरित वातावरण भी विकसित कर रहा है। इसलिए, क्यूबेकब एक बहुत ही आशाजनक ओपन-सोर्स सामुदायिक प्रबंधन उपकरण है।
 
-संक्षेप में, क्यूबेकब का दृष्टिकोण क्लाउड-नेटिव क्षेत्र में विश्व स्तर पर प्रभावशाली ओपन-सोर्स समुदाय बनाना है, न केवल ओपन-सोर्स परियोजनाओं की गुणवत्ता और विशिष्टताओं में सुधार करना है बल्कि ओपन-सोर्स परियोजनाओं को स्वस्थ और अधिक परिपक्व बनाना है। साथ ही, क्यूबेकब प्रतिभागियों को आकर्षित करने और बनाए रखने के लिए एक कुशल परिचालन प्रणाली प्रदान करता है, जिससे क्लाउड-नेटिव समुदाय के विकास को बढ़ावा मिलता है। जो डेवलपर्स क्लाउड-नेटिव क्षेत्र के बारे में भावुक हैं, उनके लिए क्यूबेकब मानकीकृत और परिचालन ओपन-सोर्स समुदाय में भाग लेने और क्लाउड-नेटिव क्षेत्र की प्रगति में योगदान करने का एक अमूल्य अवसर होगा।
+In summary, Kubecub's vision is to create a globally influential open-source community in the cloud-native field, not only to improve the quality and specifications of open-source projects but also to make open-source projects healthier and more mature. At the same time, Kubecub provides an efficient operational system to attract and retain participants, thereby promoting the development of the cloud-native community. For developers who are passionate about the cloud-native field, Kubecub will be an invaluable opportunity to participate in the standardized and operational open-source community and contribute to the progress of the cloud-native field.
 
 ## कुबेक्यूब क्यों बनाएं?
 
@@ -53,11 +53,11 @@ Kubecub is currently designing some tools, such as label synchronizers, robots, 
 
 मुझे लगता है कि क्यूबेकब कुबेरनेट्स को श्रृंखलाबद्ध करने की क्षमता प्रदान करता है। जंजीर बनाने की क्षमता क्या है?
 
-While Kubernetes is developing rapidly, under the guidance of the CNCF Foundation, the entire cloud-native field is booming, and the tools in the entire cloud-native field are innumerable, driving the development and prosperity of the entire open-source community. Kubecub came into being.
+जबकि कुबेरनेट्स सीएनसीएफ फाउंडेशन के मार्गदर्शन में तेजी से विकसित हो रहा है, संपूर्ण क्लाउड-नेटिव क्षेत्र फलफूल रहा है, और पूरे क्लाउड-नेटिव क्षेत्र में उपकरण असंख्य हैं, जो पूरे ओपन-सोर्स समुदाय के विकास और समृद्धि को चला रहे हैं। कुबेक्यूब अस्तित्व में आया।
 
 क्यूबेकब एक ब्लॉकचेन की तरह है जो सभी ब्लॉकों को एक सुपर लेजर में रिकॉर्ड करता है। क्यूबेकब एक संदर्भ योग्य और प्रतिलिपि प्रस्तुत करने योग्य प्रणाली और विनिर्देश बनाने के लिए सभी ओपन-सोर्स पारिस्थितिक तंत्रों को एक साथ जोड़ता है।
 
-Including, but not limited to:
+सहित लेकिन सीमित नहीं:
 
 -   कुबेरनेट्स पर आधारित एप्लिकेशन वितरित किए गए, मौजूदा कुबेरनेट्स समाधानों को एकीकृत किया गया।
 -   ओपन-सोर्स टूल का विकास और संगठन।
@@ -93,7 +93,7 @@ Including, but not limited to:
 
 हमारा पढ़ें[योगदानकर्ता की मार्गदर्शिका](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md), जहां आप ओपन-सोर्स प्रोजेक्ट में कोड योगदान के लिए सर्वोत्तम मानकों और प्रथाओं को सीख सकते हैं।
 
-## भविष्य के दिशानिर्देश
+## Future direction
 
 एक व्यक्ति की शक्ति सीमित है, और बाद के समय में खुला स्रोत वातावरण अधिक समृद्ध होने के लिए बाध्य है। अधिक से अधिक भागीदार या टीमें जो ओपन-सोर्स में शामिल होना चाहते हैं, मौजूदा समाधान के लिए उत्सुक हैं।
 
