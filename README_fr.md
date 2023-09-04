@@ -55,7 +55,7 @@ Je pense que Kubecub offre à Kubernetes la capacité d'enchaîner. Qu'est-ce qu
 
 Alors que Kubernetes se développe rapidement, sous la direction de la Fondation CNCF, l'ensemble du domaine du cloud natif est en plein essor et les outils dans l'ensemble du domaine du cloud natif sont innombrables, favorisant le développement et la prospérité de l'ensemble de la communauté open source. Kubecub est né.
 
-Kubecub est comme une blockchain qui enregistre tous les blocs dans un super grand livre. Kubecub regroupe tous les écosystèmes open source pour former un système et une spécification référençables et reproductibles.
+Kubecub est comme une blockchain qui enregistre tous les blocs dans un super grand livre. Kubecub chaîne tous les écosystèmes open source pour former un système et une spécification référençables et reproductibles.
 
 Y compris, mais sans s'y limiter:
 
@@ -67,7 +67,7 @@ Y compris, mais sans s'y limiter:
 
 Nous savons que tout projet open source de haut niveau ne peut se passer d’un mode opérationnel de haut niveau, notamment Kubernetes. Pour Kubernetes, la gestion, les opérations et le développement ne s'excluent pas mutuellement, c'est pourquoi la communauté Kubernetes est toujours le leader de l'ensemble de la communauté open source.
 
-However, not all projects have the cost and energy to operate and automate management, resulting in a lack of or very few mature automated and CICD and community specifications in many communities.
+Cependant, tous les projets n'ont pas le coût et l'énergie nécessaires pour fonctionner et automatiser la gestion, ce qui entraîne un manque ou un très petit nombre de spécifications automatisées et CICD et communautaires matures dans de nombreuses communautés.
 
 Kubecub mélange différents moyens DevOps, utilisant des robots et des actions pour intégrer des moyens de gestion des automatisations et une partie du travail opérationnel de la communauté.
 
