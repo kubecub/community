@@ -85,7 +85,7 @@ Même vous ne pouvez rien faire ~ saisissez avec désinvolture les demandes d'ex
 
 ## Où commencer
 
-Nous avons un<https://github.com/kubecub/community> repository, which defines community specifications and various templates.
+Nous avons un<https://github.com/kubecub/community>référentiel, qui définit les spécifications de la communauté et divers modèles.
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
@@ -95,6 +95,6 @@ Lisez notre[Guide du contributeur](https://github.com/kubecub/community/blob/mai
 
 ## Orientation future
 
-Le pouvoir d'une seule personne est limité et l'atmosphère open source dans la période ultérieure deviendra forcément plus prospère. De plus en plus de partenaires ou d’équipes souhaitant rejoindre l’open source souhaitent disposer d’une solution existante.
+Le pouvoir d'une seule personne est limité et l'atmosphère open source dans la période ultérieure deviendra forcément plus prospère. De plus en plus de partenaires ou d'équipes souhaitant rejoindre l'open source sont désireux de disposer d'une solution existante.
 
 Nous insisterons sur le fonctionnement de Kubecub et favoriserons la croissance et la communication des passionnés de l'open source.
