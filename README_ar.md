@@ -89,7 +89,7 @@ Kubecub ليس لديه أي قيود!
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
-**[٠٠٠٠-تيمبلاتي.مد](http://0000-template.md/)** is a template. We can use this template and write a markdown format proposal to the PRC directory as a PR. This is considered a complete PR. And planning work before starting a project is done.
+**[٠٠٠٠-تيمبلاتي.مد](http://0000-template.md/)**هو قالب. يمكننا استخدام هذا القالب وكتابة مقترح تنسيق تخفيض السعر إلى دليل جمهورية الصين الشعبية باعتباره العلاقات العامة. ويعتبر هذا العلاقات العامة كاملة. ويتم التخطيط للعمل قبل البدء بالمشروع.
 
 اقرأ لدينا[دليل المساهم](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md)، حيث يمكنك التعرف على أفضل المعايير والممارسات للمساهمة في التعليمات البرمجية لمشروع مفتوح المصدر.
 
