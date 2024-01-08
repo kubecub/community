@@ -83,7 +83,7 @@ Vous pouvez proposer et mettre en œuvre une idée vous-même, vous pouvez la me
 
 Même vous ne pouvez rien faire ~ saisissez avec désinvolture les demandes d'extraction d'un projet, voyez quel segment de code est inconfortable et faites quelques commentaires ~
 
-## Où commencer
+## Where to start
 
 Nous avons un<https://github.com/kubecub/community>référentiel, qui définit les spécifications de la communauté et divers modèles.
 
