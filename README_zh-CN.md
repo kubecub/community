@@ -41,7 +41,7 @@ Kubecub主要使用Golang编程语言开发，但未来不仅限于此。印象�
 
 Kubecub目前正在设计一些工具，比如标签同步器、机器人、自动化、AI、客服等，这些工具的主要目的是辅助开源社区的管理，提高运营效率。他们也希望从事二次开发的开发者能够使用和改进他们的工具并遵守他们规定的开源规范。此外，Kubecub还在底层开发基于Kubernetes构建的分布式环境，用于运维整个社区。因此，Kubecub是一个非常有前途的开源社区管理工具。
 
-综上所述，Kubecub的愿景是打造一个具有全球影响力的云原生领域开源社区，不仅要提高开源项目的质量和规范，还要让开源项目更加健康、更加成熟。同时，Kubecub提供高效的运营体系来吸引和留住参与者，从而促进云原生社区的发展。对于热衷于云原生领域的开发者来说，Kubecub将是一个宝贵的机会，参与到标准化、可操作的开源社区，为云原生领域的进步做出贡献。
+综上所述，Kubecub的愿景是打造一个具有全球影响力的云原生领域开源社区，不仅要提高开源项目的质量和规范，还要让开源项目更加健康、成熟。同时，Kubecub提供了高效的运营体系来吸引和留住参与者，从而促进云原生社区的发展。对于热衷于云原生领域的开发者来说，Kubecub将是一个宝贵的机会，参与到标准化、可操作的开源社区，为云原生领域的进步做出贡献。
 
 ## 为什么要创建 Kubecub？
 
@@ -51,7 +51,7 @@ Kubecub目前正在设计一些工具，比如标签同步器、机器人、自�
 
 > 🔥 kubecub 提供了 k8s 链的能力。
 
-I think Kubecub provides Kubernetes with the ability to chain. What is the ability to chain?
+我认为Kubecub为Kubernetes提供了链的能力。连锁能力是什么？
 
 在 Kubernetes 快速发展的同时，在 CNCF 基金会的引导下，整个云原生领域蓬勃发展，整个云原生领域的工具数不胜数，带动了整个开源社区的发展和繁荣。 Kubecub应运而生。
 
@@ -71,7 +71,7 @@ Kubecub就像一个区块链，将所有区块记录在一个超级账本中。 
 
 Kubecub 混合了各种 DevOps 手段，使用机器人和动作来集成管理自动化和部分社区运营工作的手段。
 
-## 谁可以参加 Kubecub？
+## 谁可以参与 Kubecub？
 
 Kubecub没有门槛！
 
@@ -79,7 +79,7 @@ Kubecub不需要钱！
 
 Kubecub 没有任何限制！
 
-You can propose and implement an idea yourself, you can implement it based on existing proposals in projects, you can also participate in any repository to propose or solve features, bugs, etc.
+您可以自己提出并实现一个想法，您可以根据项目中现有的提案来实现它，您还可以参与任何存储库来提出或解决功能、错误等。
 
 甚至，你什么也做不了~随便输入一个项目的pull requests，看看哪个代码段不舒服，评论一下~
 
