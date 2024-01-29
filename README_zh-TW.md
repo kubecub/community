@@ -33,7 +33,7 @@
 
 # 什麼是 kubecub？
 
-Kubecub是一個基於Kubernetes的開源生態項目，提供鏈上能力，將所有開源生態整合成一個可參考、可複製的系統和規格。它不僅包括基於Kubernetes的分散式應用，還包括開源工具的開發和組織，以及基於Kubecub的所有開源專案的管理和規格設計。
+Kubecub is an open-source ecosystem project based on Kubernetes that provides chain capabilities to integrate all open-source ecosystems into a referenceable and reproducible system and specification. It includes not only distributed applications based on Kubernetes, but also the development and organization of open-source tools, as well as the management and specification design of all open-source projects based on Kubecub.
 
 Kubecub是雲端原生領域的開源社區，其主要目標是協助建立可複製的開源規範，並提供完整的營運體系，使社區能夠健康發展。如今，該領域的項目很多，但在規格和操作方面往往缺乏統一的標準。 Kubecub的願景是統一標準，提升開源專案質量，打造全球認可的雲端原生領域開源社群。
 
@@ -41,7 +41,7 @@ Kubecub主要使用Golang程式語言開發，但未來不僅限於此。印象�
 
 Kubecub目前正在設計一些工具，例如標籤同步器、機器人、自動化、AI、客服等，這些工具的主要目的是輔助開源社群的管理，提高營運效率。他們也希望從事二次開發的開發者能夠使用和改進他們的工具並遵守他們規定的開源規範。此外，Kubecub還在底層開發基於Kubernetes建構的分散式環境，用於維運整個社區。因此，Kubecub是一個非常有前景的開源社群管理工具。
 
-綜上所述，Kubecub的願景是打造一個具有全球影響力的雲端原生領域開源社區，不僅要提高開源專案的品質和規範，還要讓開源專案更加健康、成熟。同時，Kubecub提供了一個高效的營運體系來吸引和留住參與者，從而促進雲端原生社群的發展。對於熱衷於雲端原生領域的開發者來說，Kubecub將是一個寶貴的機會，參與到標準化、可操作的開源社區，為雲端原生領域的進步做出貢獻。
+綜上所述，Kubecub的願景是打造一個具有全球影響力的雲端原生領域開源社區，不僅要提高開源專案的品質和規範，還要讓開源專案更加健康、更加成熟。同時，Kubecub提供高效率的營運體系來吸引和留住參與者，從而促進雲端原生社群的發展。對於熱衷於雲端原生領域的開發者來說，Kubecub將是一個寶貴的機會，參與到標準化、可操作的開源社區，為雲端原生領域的進步做出貢獻。
 
 ## 為什麼要創建 Kubecub？
 
@@ -71,9 +71,9 @@ Kubecub就像一個區塊鏈，將所有區塊記錄在一個超級帳本中。 
 
 Kubecub 混合了各種 DevOps 手段，使用機器人和動作來整合管理自動化和部分社區運作工作的手段。
 
-## 誰可以參與 Kubecub？
+## 誰可以參加 Kubecub？
 
-Kubecub沒有門檻！
+There is no threshold for Kubecub!
 
 Kubecub不需要錢！
 
