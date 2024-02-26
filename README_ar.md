@@ -39,7 +39,7 @@ Kubecub هو مجتمع مفتوح المصدر في المجال السحابي
 
 Kubecub is mainly developed using the Golang programming language, but it is not limited to this in the future. The most impressive thing is that Kubecub's community operations use an advanced and efficient operational system, which made me deeply aware of the problems existing in the current open-source community. In this operational mode, Kubecub administrators allocate demands, provide services to the open-source community, get feedback on time, and provide symbolic rewards. Through these means, Kubecub participants can get a good development experience and are more likely to persist, thereby making the open-source community healthier and better developed.
 
-Kubecub is currently designing some tools, such as label synchronizers, robots, automation, AI, customer service, etc. The main purpose of these tools is to assist in the management of open-source communities and improve operational efficiency. They also hope that developers who engage in secondary development can use and improve their tools and comply with their prescribed open-source specifications. In addition, Kubecub is also developing a distributed environment built on Kubernetes at the bottom to operate and maintain the entire community. Therefore, Kubecub is a very promising open-source community management tool.
+تقوم Kubecub حاليًا بتصميم بعض الأدوات، مثل أدوات مزامنة الملصقات والروبوتات والأتمتة والذكاء الاصطناعي وخدمة العملاء وما إلى ذلك. والغرض الرئيسي من هذه الأدوات هو المساعدة في إدارة المجتمعات مفتوحة المصدر وتحسين الكفاءة التشغيلية. ويأملون أيضًا أن يتمكن المطورون الذين يشاركون في التطوير الثانوي من استخدام أدواتهم وتحسينها والامتثال لمواصفاتهم مفتوحة المصدر المحددة. بالإضافة إلى ذلك، تعمل Kubecub أيضًا على تطوير بيئة موزعة مبنية على Kubernetes في الأسفل لتشغيل وصيانة المجتمع بأكمله. لذلك، Kubecub هي أداة واعدة جدًا لإدارة المجتمع مفتوحة المصدر.
 
 باختصار، تتمثل رؤية Kubecub في إنشاء مجتمع مفتوح المصدر مؤثر عالميًا في مجال السحابة الأصلية، ليس فقط لتحسين جودة ومواصفات المشاريع مفتوحة المصدر ولكن أيضًا لجعل المشاريع مفتوحة المصدر أكثر صحة ونضجًا. وفي الوقت نفسه، توفر Kubecub نظامًا تشغيليًا فعالاً لجذب المشاركين والاحتفاظ بهم، وبالتالي تعزيز تطوير مجتمع السحابة الأصلية. بالنسبة للمطورين المتحمسين للمجال السحابي الأصلي، سيكون Kubecub فرصة لا تقدر بثمن للمشاركة في مجتمع مفتوح المصدر موحد وتشغيلي والمساهمة في تقدم المجال السحابي الأصلي.
 
@@ -81,7 +81,7 @@ Kubecub ليس لديه أي قيود!
 
 يمكنك اقتراح فكرة وتنفيذها بنفسك، ويمكنك تنفيذها بناءً على المقترحات الموجودة في المشاريع، ويمكنك أيضًا المشاركة في أي مستودع لاقتراح أو حل الميزات والأخطاء وما إلى ذلك.
 
-حتى أنه لا يمكنك فعل أي شيء ~ أدخل طلبات السحب الخاصة بالمشروع بشكل عرضي، واعرف أي جزء من التعليمات البرمجية غير مريح، وقم بإبداء بعض التعليقات ~
+حتى أنه لا يمكنك فعل أي شيء ~ قم بإدخال طلبات السحب الخاصة بالمشروع بشكل عرضي، ومعرفة مقطع التعليمات البرمجية غير المريح، وإبداء بعض التعليقات ~
 
 ## من أين أبدا
 
