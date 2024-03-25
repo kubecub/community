@@ -33,7 +33,7 @@
 
 # 什麼是 kubecub？
 
-Kubecub是一個基於Kubernetes的開源生態項目，提供鏈上能力，將所有開源生態整合成一個可參考、可複製的系統和規格。它不僅包括基於Kubernetes的分散式應用，還包括開源工具的開發和組織，以及基於Kubecub的所有開源專案的管理和規格設計。
+Kubecub is an open-source ecosystem project based on Kubernetes that provides chain capabilities to integrate all open-source ecosystems into a referenceable and reproducible system and specification. It includes not only distributed applications based on Kubernetes, but also the development and organization of open-source tools, as well as the management and specification design of all open-source projects based on Kubecub.
 
 Kubecub是雲端原生領域的開源社區，其主要目標是協助建立可複製的開源規範，並提供完整的營運體系，使社區能夠健康發展。如今，該領域的項目很多，但在規格和操作方面往往缺乏統一的標準。 Kubecub的願景是統一標準，提升開源專案質量，打造全球認可的雲端原生領域開源社群。
 
@@ -59,19 +59,19 @@ Kubecub就像一個區塊鏈，將所有區塊記錄在一個超級帳本中。 
 
 包括但不僅限於：
 
--   Distributed applications based on Kubernetes, integrating existing Kubernetes solutions.
+-   基於Kubernetes的分散式應用，整合現有的Kubernetes解決方案。
 -   開源工具的開發與組織。
 -   基於Kubecub的所有開源專案的管理和規範設計。
 
 ## 目前開源社群存在的問題
 
-我們知道任何頂級的開源專案都離不開頂級的營運模式，Kubernetes也不例外。對 Kubernetes 來說，管理、維運和開發並不是相互排斥的，這也是為什麼 Kubernetes 社群仍然是整個開源社群的領導者。
+We know that any top-level open-source project cannot do without a top-level operational mode, including Kubernetes. For Kubernetes, management, operations, and development are not mutually exclusive, which is why the Kubernetes community is still the leader in the entire open-source community.
 
 然而，並不是所有的專案都有成本和精力去營運和自動化管理，導致許多社區缺乏或很少有成熟的自動化和CICD以及社區規範。
 
 Kubecub 混合了各種 DevOps 手段，使用機器人和動作來整合管理自動化和部分社區運作工作的手段。
 
-## 誰可以參加 Kubecub？
+## 誰可以參與 Kubecub？
 
 Kubecub沒有門檻！
 
@@ -79,7 +79,7 @@ Kubecub不需要錢！
 
 Kubecub 沒有任何限制！
 
-You can propose and implement an idea yourself, you can implement it based on existing proposals in projects, you can also participate in any repository to propose or solve features, bugs, etc.
+您可以自己提出並實現一個想法，您可以根據專案中現有的提案來實現它，您還可以參與任何儲存庫來提出或解決功能、錯誤等。
 
 甚至，你什麼也做不了~隨便輸入一個項目的pull requests，看看哪個代碼段不舒服，評論一下~
 
