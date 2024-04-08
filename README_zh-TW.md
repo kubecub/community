@@ -77,7 +77,7 @@ Kubecub沒有門檻！
 
 Kubecub不需要錢！
 
-Kubecub 沒有任何限制！
+Kubecub does not have any constraints!
 
 您可以自己提出並實現一個想法，您可以根據專案中現有的提案來實現它，您還可以參與任何儲存庫來提出或解決功能、錯誤等。
 
