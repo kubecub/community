@@ -65,11 +65,11 @@ Kubecub就像一个区块链，将所有区块记录在一个超级账本中。 
 
 ## 当前开源社区存在的问题
 
-我们知道，任何顶级的开源项目都离不开顶级的运营模式，Kubernetes也不例外。对于 Kubernetes 来说，管理、运营和开发并不是相互排斥的，这也是为什么 Kubernetes 社区仍然是整个开源社区的领导者。
+我们知道任何顶级的开源项目都离不开顶级的运营模式，Kubernetes也不例外。对于 Kubernetes 来说，管理、运营和开发并不是相互排斥的，这也是为什么 Kubernetes 社区仍然是整个开源社区的领导者。
 
 然而，并不是所有的项目都有成本和精力去运营和自动化管理，导致很多社区缺乏或很少有成熟的自动化和CICD以及社区规范。
 
-Kubecub mixes various DevOps means, using robots and actions to integrate means to manage automation and part of the community's operational work.
+Kubecub 混合了各种 DevOps 手段，使用机器人和动作来集成管理自动化和部分社区运营工作的手段。
 
 ## 谁可以参加 Kubecub？
 
