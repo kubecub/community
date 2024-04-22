@@ -65,7 +65,7 @@ Y compris, mais sans s'y limiter:
 
 ## Problèmes dans la communauté open source actuelle
 
-Nous savons que tout projet open source de haut niveau ne peut se passer d’un mode opérationnel de haut niveau, notamment Kubernetes. Pour Kubernetes, la gestion, les opérations et le développement ne s'excluent pas mutuellement, c'est pourquoi la communauté Kubernetes est toujours le leader de l'ensemble de la communauté open source.
+We know that any top-level open-source project cannot do without a top-level operational mode, including Kubernetes. For Kubernetes, management, operations, and development are not mutually exclusive, which is why the Kubernetes community is still the leader in the entire open-source community.
 
 Cependant, tous les projets n'ont pas le coût et l'énergie nécessaires pour fonctionner et automatiser la gestion, ce qui entraîne un manque ou un très petit nombre de spécifications automatisées et CICD et communautaires matures dans de nombreuses communautés.
 
