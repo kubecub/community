@@ -35,7 +35,7 @@
 
 Kubecub est un projet d'écosystème open source basé sur Kubernetes qui fournit des capacités de chaîne pour intégrer tous les écosystèmes open source dans un système et une spécification référençables et reproductibles. Il comprend non seulement des applications distribuées basées sur Kubernetes, mais également le développement et l'organisation d'outils open source, ainsi que la gestion et la conception des spécifications de tous les projets open source basés sur Kubecub.
 
-Kubecub est une communauté open source dans le domaine du cloud natif dont l'objectif principal est d'aider à établir une spécification open source reproductible et de fournir un système opérationnel complet pour permettre à la communauté d'avoir un développement sain. Aujourd’hui, les projets sont nombreux dans ce domaine, mais il manque souvent des normes uniformes en termes de spécifications et d’exploitation. La vision de Kubecub est d'unifier les normes, d'améliorer la qualité des projets open source et de créer une communauté open source mondialement reconnue dans le domaine du cloud natif.
+Kubecub est une communauté open source dans le domaine du cloud natif dont l'objectif principal est d'aider à établir une spécification open source reproductible et de fournir un système opérationnel complet pour permettre à la communauté d'avoir un développement sain. Aujourd'hui, les projets sont nombreux dans ce domaine, mais il manque souvent des normes uniformes en termes de spécifications et d'exploitation. La vision de Kubecub est d'unifier les normes, d'améliorer la qualité des projets open source et de créer une communauté open source mondialement reconnue dans le domaine du cloud natif.
 
 Kubecub est principalement développé à l'aide du langage de programmation Golang, mais il ne se limite pas à cela à l'avenir. Le plus impressionnant est que les opérations communautaires de Kubecub utilisent un système opérationnel avancé et efficace, ce qui m'a fait profondément prendre conscience des problèmes existant dans la communauté open source actuelle. Dans ce mode opérationnel, les administrateurs Kubecub répartissent les demandes, fournissent des services à la communauté open source, reçoivent des commentaires à temps et offrent des récompenses symboliques. Grâce à ces moyens, les participants à Kubecub peuvent acquérir une bonne expérience de développement et sont plus susceptibles de persister, rendant ainsi la communauté open source plus saine et mieux développée.
 
@@ -91,10 +91,10 @@ Nous avons un<https://github.com/kubecub/community>référentiel, qui définit l
 
 **[0000-template.md](http://0000-template.md/)**est un modèle. Nous pouvons utiliser ce modèle et rédiger une proposition de format de démarque dans le répertoire PRC en tant que PR. Ceci est considéré comme un PR complet. Et la planification du travail avant de démarrer un projet est terminée.
 
-Read our [Guide du contributeur](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md), where you can learn the best standards and practices for contributing code to an open-source project.
+Lisez notre[Guide du contributeur](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md), où vous pourrez découvrir les meilleures normes et pratiques pour contribuer au code d'un projet open source.
 
 ## Orientation future
 
-Le pouvoir d'une seule personne est limité et l'atmosphère open source dans la période ultérieure deviendra forcément plus prospère. De plus en plus de partenaires ou d'équipes souhaitant rejoindre l'open source sont désireux de disposer d'une solution existante.
+Le pouvoir d'une seule personne est limité et l'atmosphère open source dans la période ultérieure deviendra forcément plus prospère. De plus en plus de partenaires ou d’équipes souhaitant rejoindre l’open source souhaitent disposer d’une solution existante.
 
 Nous insisterons sur le fonctionnement de Kubecub et favoriserons la croissance et la communication des passionnés de l'open source.
