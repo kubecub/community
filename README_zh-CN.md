@@ -45,7 +45,7 @@ Kubecub目前正在设计一些工具，比如标签同步器、机器人、自�
 
 ## 为什么要创建 Kubecub？
 
-Unlike other open-source communities, Kubecub is not just a product or repository of Kubecub. Its functions are far more than that. Let me explain...
+与其他开源社区不同，Kubecub 不仅仅是 Kubecub 的产品或存储库。它的功能远不止于此。让我解释...
 
 **为什么叫库贝库布？**
 
@@ -65,9 +65,9 @@ Kubecub就像一个区块链，将所有区块记录在一个超级账本中。 
 
 ## 当前开源社区存在的问题
 
-我们知道，任何顶级的开源项目都离不开顶级的运营模式，Kubernetes也不例外。对于 Kubernetes 来说，管理、运营和开发并不是相互排斥的，这也是为什么 Kubernetes 社区仍然是整个开源社区的领导者。
+我们知道任何顶级的开源项目都离不开顶级的运营模式，Kubernetes也不例外。对于 Kubernetes 来说，管理、运营和开发并不是相互排斥的，这也是为什么 Kubernetes 社区仍然是整个开源社区的领导者。
 
-然而，并不是所有的项目都有成本和精力去运营和自动化管理，导致很多社区缺乏或很少有成熟的自动化和CICD以及社区规范。
+However, not all projects have the cost and energy to operate and automate management, resulting in a lack of or very few mature automated and CICD and community specifications in many communities.
 
 Kubecub 混合了各种 DevOps 手段，使用机器人和动作来集成管理自动化和部分社区运营工作的手段。
 
@@ -81,7 +81,7 @@ Kubecub 没有任何限制！
 
 您可以自己提出并实现一个想法，您可以根据项目中现有的提案来实现它，您还可以参与任何存储库来提出或解决功能、错误等。
 
-甚至，你什么也做不了~随便输入一个项目的pull requests，看看哪个代码段不爽，评论一下~
+甚至，你什么也做不了~随便输入一个项目的pull requests，看看哪个代码段不舒服，评论一下~
 
 ## 从哪儿开始
 
