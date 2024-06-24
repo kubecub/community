@@ -47,20 +47,20 @@ En résumé, la vision de Kubecub est de créer une communauté open source d'in
 
 Contrairement à d'autres communautés open source, Kubecub n'est pas simplement un produit ou un référentiel de Kubecub. Ses fonctions sont bien plus que cela. Laisse-moi expliquer...
 
-**Why is it called Kubecub?**
+**Pourquoi s'appelle-t-il Kubecub ?**
 
 > 🔥 kubecub offre la capacité des chaînes k8s.
 
 Je pense que Kubecub offre à Kubernetes la capacité d'enchaîner. Qu'est-ce que la capacité d'enchaîner ?
 
-Alors que Kubernetes se développe rapidement, sous la direction de la Fondation CNCF, l'ensemble du domaine du cloud natif est en plein essor et les outils dans l'ensemble du domaine du cloud natif sont innombrables, favorisant le développement et la prospérité de l'ensemble de la communauté open source. Kubecub est né.
+While Kubernetes is developing rapidly, under the guidance of the CNCF Foundation, the entire cloud-native field is booming, and the tools in the entire cloud-native field are innumerable, driving the development and prosperity of the entire open-source community. Kubecub came into being.
 
-Kubecub est comme une blockchain qui enregistre tous les blocs dans un super grand livre. Kubecub chaîne tous les écosystèmes open source pour former un système et une spécification référençables et reproductibles.
+Kubecub est comme une blockchain qui enregistre tous les blocs dans un super grand livre. Kubecub regroupe tous les écosystèmes open source pour former un système et une spécification référençables et reproductibles.
 
 Y compris, mais sans s'y limiter:
 
 -   Applications distribuées basées sur Kubernetes, intégrant les solutions Kubernetes existantes.
--   Development and organization of open-source tools.
+-   Développement et organisation d'outils open source.
 -   Gestion et conception des spécifications de tous les projets open source basés sur Kubecub.
 
 ## Problèmes dans la communauté open source actuelle
@@ -85,7 +85,7 @@ Même vous ne pouvez rien faire ~ saisissez avec désinvolture les demandes d'ex
 
 ## Où commencer
 
-Nous avons un<https://github.com/kubecub/community>référentiel, qui définit les spécifications de la communauté et divers modèles.
+Nous avons un<https://github.com/kubecub/community> repository, which defines community specifications and various templates.
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
@@ -95,6 +95,6 @@ Lisez notre[Guide du contributeur](https://github.com/kubecub/community/blob/mai
 
 ## Orientation future
 
-Le pouvoir d'une seule personne est limité et l'atmosphère open source dans la période ultérieure deviendra forcément plus prospère. De plus en plus de partenaires ou d'équipes souhaitant rejoindre l'open source sont désireux de disposer d'une solution existante.
+Le pouvoir d'une seule personne est limité et l'atmosphère open source dans la période ultérieure deviendra forcément plus prospère. De plus en plus de partenaires ou d’équipes souhaitant rejoindre l’open source souhaitent disposer d’une solution existante.
 
 Nous insisterons sur le fonctionnement de Kubecub et favoriserons la croissance et la communication des passionnés de l'open source.
