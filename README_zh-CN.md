@@ -63,9 +63,9 @@ Kubecub就像一个区块链，将所有区块记录在一个超级账本中。 
 -   开源工具的开发和组织。
 -   基于Kubecub的所有开源项目的管理和规范设计。
 
-## 当前开源社区存在的问题
+## Problems in the current open-source community
 
-我们知道，任何顶级的开源项目都离不开顶级的运营模式，Kubernetes也不例外。对于 Kubernetes 来说，管理、运营和开发并不是相互排斥的，这也是为什么 Kubernetes 社区仍然是整个开源社区的领导者。
+我们知道任何顶级的开源项目都离不开顶级的运营模式，Kubernetes也不例外。对于 Kubernetes 来说，管理、运营和开发并不是相互排斥的，这也是为什么 Kubernetes 社区仍然是整个开源社区的领导者。
 
 然而，并不是所有的项目都有成本和精力去运营和自动化管理，导致很多社区缺乏或很少有成熟的自动化和CICD以及社区规范。
 
@@ -81,17 +81,17 @@ Kubecub 没有任何限制！
 
 您可以自己提出并实现一个想法，您可以根据项目中现有的提案来实现它，您还可以参与任何存储库来提出或解决功能、错误等。
 
-甚至，你什么也做不了~随便输入一个项目的pull requests，看看哪个代码段不爽，评论一下~
+甚至，你什么也做不了~随便输入一个项目的pull requests，看看哪个代码段不舒服，评论一下~
 
 ## 从哪儿开始
 
-我们有一个[HTTPS://GitHub.com/苦B ECU B/community](https://github.com/kubecub/community)存储库，定义社区规范和各种模板。
+我们有一个<https://github.com/kubecub/community>存储库，定义社区规范和各种模板。
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
 **[0000-template.面对](http://0000-template.md/)**是一个模板。我们可以使用这个模板，写一个markdown格式的提案到PRC目录下作为PR。这被认为是一个完整的 PR。项目开始前的规划工作就完成了。
 
-阅读我们的[贡献者指南](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md), where you can learn the best standards and practices for contributing code to an open-source project.
+阅读我们的[贡献者指南](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md)，您可以在其中学习向开源项目贡献代码的最佳标准和实践。
 
 ## 未来方向
 
