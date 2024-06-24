@@ -33,7 +33,7 @@
 
 # ما هو كوبيكوب؟
 
-Kubecub is an open-source ecosystem project based on Kubernetes that provides chain capabilities to integrate all open-source ecosystems into a referenceable and reproducible system and specification. It includes not only distributed applications based on Kubernetes, but also the development and organization of open-source tools, as well as the management and specification design of all open-source projects based on Kubecub.
+Kubecub هو مشروع نظام بيئي مفتوح المصدر يعتمد على Kubernetes ويوفر إمكانات متسلسلة لدمج جميع الأنظمة البيئية مفتوحة المصدر في نظام ومواصفات يمكن الرجوع إليها وقابلة للتكرار. وهو لا يشمل فقط التطبيقات الموزعة المستندة إلى Kubernetes، ولكن أيضًا تطوير وتنظيم الأدوات مفتوحة المصدر، بالإضافة إلى إدارة وتصميم المواصفات لجميع المشاريع مفتوحة المصدر المستندة إلى Kubecub.
 
 Kubecub هو مجتمع مفتوح المصدر في المجال السحابي الأصلي وهدفه الرئيسي هو المساعدة في إنشاء مواصفات مفتوحة المصدر قابلة للتكرار وتوفير نظام تشغيلي كامل لتمكين المجتمع من تحقيق تنمية صحية. اليوم هناك العديد من المشاريع في هذا المجال، ولكن في كثير من الأحيان هناك نقص في المعايير الموحدة من حيث المواصفات والعمليات. تتمثل رؤية Kubecub في توحيد المعايير، وتحسين جودة المشاريع مفتوحة المصدر، وإنشاء مجتمع مفتوح المصدر معترف به عالميًا في المجال السحابي الأصلي.
 
