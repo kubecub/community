@@ -35,9 +35,9 @@
 
 Kubecub是一个基于Kubernetes的开源生态项目，提供链上能力，将所有开源生态整合成一个可参考、可复制的系统和规范。它不仅包括基于Kubernetes的分布式应用，还包括开源工具的开发和组织，以及基于Kubecub的所有开源项目的管理和规范设计。
 
-Kubecub是云原生领域的开源社区，其主要目标是帮助建立可复制的开源规范，并提供完整的运营体系，使社区能够健康发展。如今，该领域的项目很多，但在规格和操作方面往往缺乏统一的标准。 Kubecub的愿景是统一标准，提高开源项目质量，打造全球认可的云原生领域开源社区。
+Kubecub is an open-source community in the cloud-native field whose main goal is to help establish a reproducible open-source specification and provide a complete operational system to enable the community to have healthy development. Today, there are many projects in this field, but often there is a lack of uniform standards in terms of specifications and operations. Kubecub's vision is to unify standards, improve the quality of open-source projects, and create a globally recognized open-source community in the cloud-native field.
 
-Kubecub主要使用Golang编程语言开发，但未来不仅限于此。印象最深的是Kubecub的社区运营采用了先进高效的运营体系，这让我深刻认识到当前开源社区存在的问题。在这种运营模式下，Kubecub管理员分配需求，为开源社区提供服务，及时获得反馈，并提供象征性奖励。通过这些手段，Kubecub参与者可以获得良好的开发体验，更有可能坚持下去，从而使开源社区更加健康、更好的发展。
+Kubecub主要使用Golang编程语言开发，但未来不仅限于此。印象最深刻的是Kubecub的社区运营采用了先进高效的运营体系，这让我深刻认识到当前开源社区存在的问题。在这种运营模式下，Kubecub管理员分配需求，为开源社区提供服务，及时获得反馈，并提供象征性奖励。通过这些手段，Kubecub参与者可以获得良好的开发体验，更有可能坚持下去，从而使开源社区更健康、更好的发展。
 
 Kubecub目前正在设计一些工具，比如标签同步器、机器人、自动化、AI、客服等，这些工具的主要目的是辅助开源社区的管理，提高运营效率。他们也希望从事二次开发的开发者能够使用和改进他们的工具，并遵守他们规定的开源规范。此外，Kubecub还在底层开发基于Kubernetes构建的分布式环境，用于运维整个社区。因此，Kubecub是一个非常有前途的开源社区管理工具。
 
@@ -57,7 +57,7 @@ Kubecub目前正在设计一些工具，比如标签同步器、机器人、自�
 
 Kubecub就像一个区块链，将所有区块记录在一个超级账本中。 Kubecub将所有开源生态系统链接在一起，形成可参考、可复制的系统和规范。
 
-Including, but not limited to:
+包括但不仅限于：
 
 -   基于Kubernetes的分布式应用，集成现有的Kubernetes解决方案。
 -   开源工具的开发和组织。
@@ -65,7 +65,7 @@ Including, but not limited to:
 
 ## 当前开源社区存在的问题
 
-我们知道任何顶级的开源项目都离不开顶级的运营模式，Kubernetes也不例外。对于 Kubernetes 来说，管理、运营和开发并不是相互排斥的，这也是为什么 Kubernetes 社区仍然是整个开源社区的领导者。
+我们知道，任何顶级的开源项目都离不开顶级的运营模式，Kubernetes也不例外。对于 Kubernetes 来说，管理、运营和开发并不是相互排斥的，这也是为什么 Kubernetes 社区仍然是整个开源社区的领导者。
 
 然而，并不是所有的项目都有成本和精力去运营和自动化管理，导致很多社区缺乏或很少有成熟的自动化和CICD以及社区规范。
 
@@ -85,7 +85,7 @@ Kubecub 没有任何限制！
 
 ## 从哪儿开始
 
-我们有一个[HTTPS://GitHub.com/苦B ECU B/community](https://github.com/kubecub/community)存储库，定义社区规范和各种模板。
+我们有一个<https://github.com/kubecub/community>存储库，定义社区规范和各种模板。
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
