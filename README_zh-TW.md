@@ -55,7 +55,7 @@ Kubecub目前正在設計一些工具，例如標籤同步器、機器人、自�
 
 在 Kubernetes 快速發展的同時，在 CNCF 基金會的引導下，整個雲原生領域蓬勃發展，整個雲原生領域的工具數不勝數，帶動了整個開源社群的發展和繁榮。 Kubecub應運而生。
 
-Kubecub is like a blockchain that records all blocks in a super ledger. Kubecub chains all open-source ecosystems together to form a referenceable and reproducible system and specification.
+Kubecub就像一個區塊鏈，將所有區塊記錄在一個超級帳本中。 Kubecub將所有開源生態系統連結在一起，形成可參考、可複製的系統和規格。
 
 包括但不僅限於：
 
@@ -65,7 +65,7 @@ Kubecub is like a blockchain that records all blocks in a super ledger. Kubecub 
 
 ## 目前開源社群存在的問題
 
-我們知道，任何頂級的開源專案都離不開頂級的營運模式，Kubernetes也不例外。對 Kubernetes 來說，管理、營運和開發並不是相互排斥的，這也是為什麼 Kubernetes 社群仍然是整個開源社群的領導者。
+我們知道任何頂級的開源專案都離不開頂級的營運模式，Kubernetes也不例外。對 Kubernetes 來說，管理、營運和開發並不是相互排斥的，這也是為什麼 Kubernetes 社群仍然是整個開源社群的領導者。
 
 然而，並不是所有的專案都有成本和精力去營運和自動化管理，導致許多社區缺乏或很少有成熟的自動化和CICD以及社區規範。
 
@@ -73,7 +73,7 @@ Kubecub 混合了各種 DevOps 手段，使用機器人和動作來整合管理�
 
 ## 誰可以參加 Kubecub？
 
-There is no threshold for Kubecub!
+Kubecub沒有門檻！
 
 Kubecub不需要錢！
 
@@ -81,9 +81,9 @@ Kubecub 沒有任何限制！
 
 您可以自己提出並實現一個想法，您可以根據專案中現有的提案來實現它，您還可以參與任何儲存庫來提出或解決功能、錯誤等。
 
-甚至，你什麼也做不了~隨便輸入一個項目的pull requests，看看哪個代碼段不爽，評論一下~
+甚至，你什麼也做不了~隨便輸入一個項目的pull requests，看看哪個代碼段不舒服，評論一下~
 
-## Where to start
+## 從哪裡開始
 
 我們有一個<https://github.com/kubecub/community>儲存庫，定義社群規範和各種範本。
 
@@ -91,10 +91,10 @@ Kubecub 沒有任何限制！
 
 **[0000-template.md](http://0000-template.md/)**是一個模板。我們可以使用這個模板，寫一個markdown格式的提案到PRC目錄下當PR。這被認為是一個完整的 PR。專案開始前的規劃工作就完成了。
 
-閱讀我們的[Contributor's Guide](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md)，您可以在其中學習向開源專案貢獻程式碼的最佳標準和實踐。
+閱讀我們的[貢獻者指南](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md)，您可以在其中學習向開源專案貢獻程式碼的最佳標準和實踐。
 
 ## 未來方向
 
-The power of one person is limited, and the open-source atmosphere in the later period is bound to become more prosperous. More and more partners or teams who want to join open-source are eager to have an existing solution.
+一個人的力量是有限的，後期的開源氛圍勢必會更加繁榮。越來越多想要加入開源的合作夥伴或團隊都渴望擁有一個現成的解決方案。
 
 我們將堅持Kubecub的運營，促進開源愛好者的成長和交流。
