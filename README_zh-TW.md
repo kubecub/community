@@ -45,7 +45,7 @@ Kubecub目前正在設計一些工具，例如標籤同步器、機器人、自�
 
 ## 為什麼要創建 Kubecub？
 
-與其他開源社群不同，Kubecub 不僅僅是 Kubecub 的產品或儲存庫。它的功能遠不止於此。讓我解釋...
+與其他開源社群不同，Kubecub 不僅僅是 Kubecub 的產品或儲存庫。它的功能遠不止於此。讓我解釋一下...
 
 **為什麼叫庫貝庫布？**
 
@@ -57,7 +57,7 @@ Kubecub目前正在設計一些工具，例如標籤同步器、機器人、自�
 
 Kubecub就像一個區塊鏈，將所有區塊記錄在一個超級帳本中。 Kubecub將所有開源生態系統連結在一起，形成可參考、可複製的系統和規格。
 
-包括但不僅限於：
+包括但不限於：
 
 -   基於Kubernetes的分散式應用，整合現有的Kubernetes解決方案。
 -   開源工具的開發與組織。
@@ -81,15 +81,15 @@ Kubecub 沒有任何限制！
 
 您可以自己提出並實現一個想法，您可以根據專案中現有的提案來實現它，您還可以參與任何儲存庫來提出或解決功能、錯誤等。
 
-甚至，你什麼也做不了~隨便輸入一個項目的pull requests，看看哪個代碼段不舒服，評論一下~
+甚至，你什麼也做不了~隨便輸入一個項目的pull requests，看看哪個代碼段不爽，評論一下~
 
 ## 從哪裡開始
 
-我們有一個<https://github.com/kubecub/community>儲存庫，定義社群規範和各種範本。
+我們有一個[HTTPS://git互補.com/庫巴厄粗暴/community](https://github.com/kubecub/community)儲存庫，定義社群規範和各種範本。
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
-**[0000-template.md](http://0000-template.md/)**是一個模板。我們可以使用這個模板，寫一個markdown格式的提案到PRC目錄下當PR。這被認為是一個完整的 PR。專案開始前的規劃工作就完成了。
+**[0000-template.面對](http://0000-template.md/)**是一個模板。我們可以使用這個模板，寫一個markdown格式的提案到PRC目錄下當PR。這被認為是一個完整的 PR。專案開始前的規劃工作就完成了。
 
 閱讀我們的[貢獻者指南](https://github.com/kubecub/community/blob/main/CONTRIBUTING.md)，您可以在其中學習向開源專案貢獻程式碼的最佳標準和實踐。
 
