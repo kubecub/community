@@ -31,7 +31,7 @@
 
 * * *
 
-# What is kubecub?
+# Qu’est-ce que Kubecub ?
 
 Kubecub est un projet d'écosystème open source basé sur Kubernetes qui fournit des capacités de chaîne pour intégrer tous les écosystèmes open source dans un système et une spécification référençables et reproductibles. Il comprend non seulement des applications distribuées basées sur Kubernetes, mais également le développement et l'organisation d'outils open source, ainsi que la gestion et la conception des spécifications de tous les projets open source basés sur Kubecub.
 
@@ -47,7 +47,7 @@ En résumé, la vision de Kubecub est de créer une communauté open source d'in
 
 Contrairement à d'autres communautés open source, Kubecub n'est pas simplement un produit ou un référentiel de Kubecub. Ses fonctions sont bien plus que cela. Laissez-moi vous expliquer...
 
-**Pourquoi s'appelle-t-il Kubecub ?**
+**Why is it called Kubecub?**
 
 > 🔥 kubecub offre la capacité des chaînes k8s.
 
@@ -71,7 +71,7 @@ Cependant, tous les projets n'ont pas le coût et l'énergie nécessaires pour f
 
 Kubecub mélange différents moyens DevOps, utilisant des robots et des actions pour intégrer des moyens de gestion des automatisations et une partie du travail opérationnel de la communauté.
 
-## Who can participate in Kubecub?
+## Qui peut participer à Kubecub ?
 
 Il n'y a pas de seuil pour Kubecub !
 
