@@ -37,7 +37,7 @@ Kubecub是一个基于Kubernetes的开源生态项目，提供链上能力，将
 
 Kubecub is an open-source community in the cloud-native field whose main goal is to help establish a reproducible open-source specification and provide a complete operational system to enable the community to have healthy development. Today, there are many projects in this field, but often there is a lack of uniform standards in terms of specifications and operations. Kubecub's vision is to unify standards, improve the quality of open-source projects, and create a globally recognized open-source community in the cloud-native field.
 
-Kubecub主要使用Golang编程语言开发，但未来不仅限于此。印象最深刻的是Kubecub的社区运营采用了先进高效的运营体系，这让我深刻认识到当前开源社区存在的问题。在这种运营模式下，Kubecub管理员分配需求，为开源社区提供服务，及时获得反馈，并提供象征性奖励。通过这些手段，Kubecub参与者可以获得良好的开发体验，更有可能坚持下去，从而使开源社区更健康、更好的发展。
+Kubecub主要使用Golang编程语言开发，但未来不仅限于此。印象最深的是Kubecub的社区运营采用了先进高效的运营体系，这让我深刻认识到当前开源社区存在的问题。在这种运营模式下，Kubecub管理员分配需求，为开源社区提供服务，及时获得反馈，并提供象征性奖励。通过这些手段，Kubecub参与者可以获得良好的开发体验，更有可能坚持下去，从而使开源社区更健康、更好的发展。
 
 Kubecub目前正在设计一些工具，比如标签同步器、机器人、自动化、AI、客服等，这些工具的主要目的是辅助开源社区的管理，提高运营效率。他们也希望从事二次开发的开发者能够使用和改进他们的工具，并遵守他们规定的开源规范。此外，Kubecub还在底层开发基于Kubernetes构建的分布式环境，用于运维整个社区。因此，Kubecub是一个非常有前途的开源社区管理工具。
 
