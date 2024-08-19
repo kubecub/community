@@ -33,7 +33,7 @@
 
 # ما هو كوبيكوب؟
 
-Kubecub هو مشروع نظام بيئي مفتوح المصدر يعتمد على Kubernetes ويوفر إمكانات متسلسلة لدمج جميع الأنظمة البيئية مفتوحة المصدر في نظام ومواصفات يمكن الرجوع إليها وقابلة للتكرار. وهو لا يشمل فقط التطبيقات الموزعة المستندة إلى Kubernetes، ولكن أيضًا تطوير وتنظيم الأدوات مفتوحة المصدر، بالإضافة إلى إدارة وتصميم المواصفات لجميع المشاريع مفتوحة المصدر المستندة إلى Kubecub.
+Kubecub is an open-source ecosystem project based on Kubernetes that provides chain capabilities to integrate all open-source ecosystems into a referenceable and reproducible system and specification. It includes not only distributed applications based on Kubernetes, but also the development and organization of open-source tools, as well as the management and specification design of all open-source projects based on Kubecub.
 
 Kubecub هو مجتمع مفتوح المصدر في المجال السحابي الأصلي وهدفه الرئيسي هو المساعدة في إنشاء مواصفات مفتوحة المصدر قابلة للتكرار وتوفير نظام تشغيلي كامل لتمكين المجتمع من تحقيق تنمية صحية. اليوم هناك العديد من المشاريع في هذا المجال، ولكن في كثير من الأحيان هناك نقص في المعايير الموحدة من حيث المواصفات والعمليات. تتمثل رؤية Kubecub في توحيد المعايير، وتحسين جودة المشاريع مفتوحة المصدر، وإنشاء مجتمع مفتوح المصدر معترف به عالميًا في المجال السحابي الأصلي.
 
@@ -63,15 +63,15 @@ Kubecub يشبه blockchain الذي يسجل جميع الكتل في دفتر 
 -   تطوير وتنظيم الأدوات مفتوحة المصدر.
 -   إدارة وتصميم المواصفات لجميع المشاريع مفتوحة المصدر على أساس Kubecub.
 
-## المشاكل في مجتمع المصادر المفتوحة الحالي
+## المشاكل الموجودة في مجتمع المصادر المفتوحة الحالي
 
-نحن نعلم أن أي مشروع مفتوح المصدر عالي المستوى لا يمكنه الاستغناء عن وضع التشغيل عالي المستوى، بما في ذلك Kubernetes. بالنسبة لـ Kubernetes، لا تتعارض الإدارة والعمليات والتطوير، ولهذا السبب لا يزال مجتمع Kubernetes هو الرائد في مجتمع المصادر المفتوحة بأكمله.
+We know that any top-level open-source project cannot do without a top-level operational mode, including Kubernetes. For Kubernetes, management, operations, and development are not mutually exclusive, which is why the Kubernetes community is still the leader in the entire open-source community.
 
 ومع ذلك، لا تتمتع جميع المشاريع بالتكلفة والطاقة لتشغيل الإدارة وأتمتتها، مما يؤدي إلى نقص أو عدد قليل جدًا من المواصفات الآلية الناضجة ومواصفات CICD والمجتمع في العديد من المجتمعات.
 
 يمزج Kubecub بين وسائل DevOps المختلفة، باستخدام الروبوتات والإجراءات لدمج وسائل إدارة الأتمتة وجزء من العمل التشغيلي للمجتمع.
 
-## من يمكنه المشاركة في كوبيكوب؟
+## Who can participate in Kubecub?
 
 ليس هناك عتبة لKubecub!
 
