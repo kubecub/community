@@ -59,7 +59,7 @@ Kubecub就像一個區塊鏈，將所有區塊記錄在一個超級帳本中。 
 
 包括但不限於：
 
--   基於Kubernetes的分散式應用，整合現有的Kubernetes解決方案。
+-   Distributed applications based on Kubernetes, integrating existing Kubernetes solutions.
 -   開源工具的開發與組織。
 -   基於Kubecub的所有開源專案的管理和規範設計。
 
@@ -81,7 +81,7 @@ Kubecub 沒有任何限制！
 
 您可以自己提出並實現一個想法，您可以根據專案中現有的提案來實現它，您還可以參與任何儲存庫來提出或解決功能、錯誤等。
 
-甚至，你什麼也做不了~隨便輸入一個項目的pull requests，看看哪個代碼段不爽，評論一下~
+甚至，你什麼也做不了~隨便輸入一個項目的pull requests，看看哪個代碼段不舒服，評論一下~
 
 ## 從哪裡開始
 
