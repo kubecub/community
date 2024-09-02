@@ -55,7 +55,7 @@ Je pense que Kubecub offre à Kubernetes la capacité d'enchaîner. Qu'est-ce qu
 
 Alors que Kubernetes se développe rapidement, sous la direction de la Fondation CNCF, l'ensemble du domaine du cloud natif est en plein essor et les outils dans l'ensemble du domaine du cloud natif sont innombrables, favorisant le développement et la prospérité de l'ensemble de la communauté open source. Kubecub est né.
 
-Kubecub est comme une blockchain qui enregistre tous les blocs dans un super grand livre. Kubecub chaîne tous les écosystèmes open source pour former un système et une spécification référençables et reproductibles.
+Kubecub est comme une blockchain qui enregistre tous les blocs dans un super grand livre. Kubecub regroupe tous les écosystèmes open source pour former un système et une spécification référençables et reproductibles.
 
 Y compris, mais sans s'y limiter :
 
