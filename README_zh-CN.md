@@ -33,7 +33,7 @@
 
 # 什么是 kubecub？
 
-Kubecub是一个基于Kubernetes的开源生态项目，提供链上能力，将所有开源生态整合成一个可参考、可复制的系统和规范。它不仅包括基于Kubernetes的分布式应用，还包括开源工具的开发和组织，以及基于Kubecub的所有开源项目的管理和规范设计。
+Kubecub is an open-source ecosystem project based on Kubernetes that provides chain capabilities to integrate all open-source ecosystems into a referenceable and reproducible system and specification. It includes not only distributed applications based on Kubernetes, but also the development and organization of open-source tools, as well as the management and specification design of all open-source projects based on Kubecub.
 
 Kubecub是云原生领域的开源社区，其主要目标是帮助建立可复制的开源规范，并提供完整的运营体系，使社区能够健康发展。如今，该领域的项目很多，但在规格和操作方面往往缺乏统一的标准。 Kubecub的愿景是统一标准，提高开源项目质量，打造全球认可的云原生领域开源社区。
 
@@ -61,7 +61,7 @@ Kubecub就像一个区块链，将所有区块记录在一个超级账本中。 
 
 -   基于Kubernetes的分布式应用，集成现有的Kubernetes解决方案。
 -   开源工具的开发和组织。
--   Management and specification design of all open-source projects based on Kubecub.
+-   基于Kubecub的所有开源项目的管理和规范设计。
 
 ## 当前开源社区存在的问题
 
@@ -81,7 +81,7 @@ Kubecub 没有任何限制！
 
 您可以自己提出并实现一个想法，您可以根据项目中现有的提案来实现它，您还可以参与任何存储库来提出或解决功能、错误等。
 
-甚至，你什么也做不了~随便输入一个项目的pull requests，看看哪个代码段不爽，评论一下~
+甚至，你什么也做不了~随便输入一个项目的pull requests，看看哪个代码段不舒服，评论一下~
 
 ## 从哪里开始
 
