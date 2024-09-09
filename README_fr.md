@@ -37,7 +37,7 @@ Kubecub est un projet d'écosystème open source basé sur Kubernetes qui fourni
 
 Kubecub est une communauté open source dans le domaine du cloud natif dont l'objectif principal est d'aider à établir une spécification open source reproductible et de fournir un système opérationnel complet pour permettre à la communauté d'avoir un développement sain. Aujourd'hui, les projets sont nombreux dans ce domaine, mais il manque souvent des normes uniformes en termes de spécifications et d'exploitation. La vision de Kubecub est d'unifier les normes, d'améliorer la qualité des projets open source et de créer une communauté open source mondialement reconnue dans le domaine du cloud natif.
 
-Kubecub est principalement développé à l'aide du langage de programmation Golang, mais il ne se limite pas à cela à l'avenir. Le plus impressionnant est que les opérations communautaires de Kubecub utilisent un système opérationnel avancé et efficace, ce qui m'a fait profondément prendre conscience des problèmes existant dans la communauté open source actuelle. Dans ce mode opérationnel, les administrateurs Kubecub répartissent les demandes, fournissent des services à la communauté open source, reçoivent des commentaires à temps et offrent des récompenses symboliques. Grâce à ces moyens, les participants à Kubecub peuvent acquérir une bonne expérience de développement et sont plus susceptibles de persister, rendant ainsi la communauté open source plus saine et mieux développée.
+Kubecub est principalement développé à l'aide du langage de programmation Golang, mais il ne se limite pas à cela dans le futur. Le plus impressionnant est que les opérations communautaires de Kubecub utilisent un système opérationnel avancé et efficace, ce qui m'a fait profondément prendre conscience des problèmes existants dans la communauté open source actuelle. Dans ce mode opérationnel, les administrateurs Kubecub répartissent les demandes, fournissent des services à la communauté open source, reçoivent des commentaires à temps et offrent des récompenses symboliques. Grâce à ces moyens, les participants à Kubecub peuvent acquérir une bonne expérience de développement et sont plus susceptibles de persister, rendant ainsi la communauté open source plus saine et mieux développée.
 
 Kubecub conçoit actuellement certains outils, tels que des synchroniseurs d'étiquettes, des robots, des automatisations, de l'IA, du service client, etc. L'objectif principal de ces outils est d'aider à la gestion des communautés open source et d'améliorer l'efficacité opérationnelle. Ils espèrent également que les développeurs qui s'engagent dans le développement secondaire pourront utiliser et améliorer leurs outils et se conformer aux spécifications open source prescrites. De plus, Kubecub développe également un environnement distribué basé sur Kubernetes en bas pour exploiter et maintenir l'ensemble de la communauté. Kubecub est donc un outil de gestion de communauté open source très prometteur.
 
@@ -85,7 +85,7 @@ Même vous ne pouvez rien faire ~ saisissez avec désinvolture les demandes d'ex
 
 ## Par où commencer
 
-Nous avons un<https://github.com/kubecub/community>référentiel, qui définit les spécifications de la communauté et divers modèles.
+Nous avons un<https://github.com/kubecub/community> repository, which defines community specifications and various templates.
 
 ![yangzi](http://sm.nsddd.top/sm202306012140301.png)
 
